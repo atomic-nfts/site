@@ -6,7 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Welcome to Atomic NFT
+# Welcome to Atomic NFTs
 {: .fs-9 }
 
 Write something here...
