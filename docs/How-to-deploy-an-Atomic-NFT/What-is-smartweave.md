@@ -6,3 +6,8 @@ parent: How to deploy an Atomic NFT
 nav_order: 2
 ---
 
+# What is smartweave?
+
+<br>
+Write something here...
+{: }

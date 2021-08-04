@@ -7,7 +7,12 @@ has_children: true
 permalink: /docs/How-to-deploy-an-Atomic-NFT
 ---
 
-# UI Components
+## How to deploy an Atomic NFT
+{: .fs-9 }
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
-{: .fs-6 .fw-300 }
+<br>
+Write something here...
+{: .fs-6 .fw-400 }
+
+(Go to koi.rocks › download Finnie › upload wallet › deploy NFT › hooray!)
+{: .fs-3 .fw-400 }

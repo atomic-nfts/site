@@ -19,27 +19,27 @@
   },"3": {
     "doc": "Example deployment script",
     "title": "Example deployment script",
-    "content": "# Labels Use labels as a way to add an additional mark to a section of your docs. Labels come in a few colors. By default, labels will be blue. Default label {: .label } Blue label {: .label .label-blue } Stable {: .label .label-green } New release {: .label .label-purple } Coming soon {: .label .label-yellow } Deprecated {: .label .label-red } ```markdown Default label {: .label } Blue label {: .label .label-blue } Stable {: .label .label-green } New release {: .label .label-purple } Coming soon {: .label .label-yellow } Deprecated {: .label .label-red } ``` ",
+    "content": "# Example deployment script Write something here... {: } ```bash ``` ",
     "url": "https://atomicnft.com/docs/How-to-deploy-an-Atomic-NFT/Example-deployment-script/",
     "relUrl": "/docs/How-to-deploy-an-Atomic-NFT/Example-deployment-script/"
   },"4": {
     "doc": "General definition of an atomic NFT",
     "title": "General definition of an atomic NFT",
-    "content": " ",
+    "content": "## General definition of an atomic NFT {: .fs-9 } Atomic NFT is a standard for Non Fungible Tokens (NFTs) on Koii. Anyone can utilize the Atomic NFT standard to tokenize and create digital assets and buy, sell & auction assets utilizing the marketplace(). Alongside its smart contract creation platform Atomic Market. Atomic Market is a shared liquidity NFT market smart contract that is used by multiple websites to try and provide users the best possible experience. Shared liquidity means that everything which is listed on one market also shows on all other markets. [Visit Market](https://koi.rocks){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target=\"_blank\" } ",
     "url": "https://atomicnft.com/docs/General-definition-of-an-atomic-NFT/",
     "relUrl": "/docs/General-definition-of-an-atomic-NFT/"
   },"5": {
     "doc": "How to deploy an Atomic NFT",
     "title": "How to deploy an Atomic NFT",
-    "content": "# UI Components To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed. {: .fs-6 .fw-300 } ",
+    "content": "## How to deploy an Atomic NFT {: .fs-9 } Write something here... {: .fs-6 .fw-400 } (Go to koi.rocks › download Finnie › upload wallet › deploy NFT › hooray!) {: .fs-3 .fw-400 } ",
     "url": "https://atomicnft.com/docs/How-to-deploy-an-Atomic-NFT",
     "relUrl": "/docs/How-to-deploy-an-Atomic-NFT"
   },"6": {
     "doc": "How to get AR",
     "title": "How to get AR",
-    "content": "# Tables Tables are responsive by default, allowing wide tables to have a horizontal scroll to access columns outside of the normal viewport. | head1 | head two | three |:-------------|:------------------|:------| ok | good swedish fish | nice | out of stock | good and plenty | nice | ok | good `oreos` | hmm | ok | good `zoute` drop | yumm | ```markdown | head1 | head two | three |:-------------|:------------------|:------| ok | good swedish fish | nice | out of stock | good and plenty | nice | ok | good `oreos` | hmm | ok | good `zoute` drop | yumm | ``` ",
-    "url": "https://atomicnft.com/https:/koi.rocks/faucet",
-    "relUrl": "/https:/koi.rocks/faucet"
+    "content": "# How to get AR [Get some AR here](https://koi.rocks/faucet){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target=\"_blank\" } ",
+    "url": "https://atomicnft.com/docs/How-to-deploy-an-Atomic-NFT/How-to-get-AR/",
+    "relUrl": "/docs/How-to-deploy-an-Atomic-NFT/How-to-get-AR/"
   },"7": {
     "doc": "Key Security",
     "title": "Key Security",
@@ -79,13 +79,13 @@
   },"13": {
     "doc": "What is Arweave?",
     "title": "What is Arweave?",
-    "content": " ",
+    "content": "# What is Arweave? Write something here... {: } ",
     "url": "https://atomicnft.com/docs/How-to-deploy-an-Atomic-NFT/What-is-Arweave/",
     "relUrl": "/docs/How-to-deploy-an-Atomic-NFT/What-is-Arweave/"
   },"14": {
     "doc": "What is smartweave?",
     "title": "What is smartweave?",
-    "content": " ",
+    "content": "# What is smartweave? Write something here... {: } ",
     "url": "https://atomicnft.com/docs/How-to-deploy-an-Atomic-NFT/What-is-smartweave/",
     "relUrl": "/docs/How-to-deploy-an-Atomic-NFT/What-is-smartweave/"
   },"15": {

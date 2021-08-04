@@ -3,29 +3,11 @@ layout: default
 slideId: How-to-get-AR
 title: How to get AR
 parent: How to deploy an Atomic NFT
-permalink: https://koi.rocks/faucet
 nav_order: 4
 ---
 
-# Tables
+# How to get AR
 
-Tables are responsive by default, allowing wide tables to have a horizontal scroll to access columns outside of the normal viewport.
+<br>
 
-<div class="code-example" markdown="1">
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-</div>
-```markdown
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-```
+[Get some AR here](https://koi.rocks/faucet){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
