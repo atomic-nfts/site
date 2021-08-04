@@ -1,0 +1,45 @@
+I"¯	<h1 id="example-deployment-script">Example deployment script</h1>
+
+<p><br /></p>
+
+<p>This one was founded at <a href="https://cedriking.medium.com/lets-buidl-smartweave-contracts-6353d22c4561">here</a>.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+import Arweave from <span class="s1">'arweave'</span><span class="p">;</span>
+const arweave <span class="o">=</span> Arweave.init<span class="o">({</span>
+    host: <span class="s1">'arweave.net'</span>,
+    protocol: <span class="s1">'https'</span>,
+    port: 443
+<span class="o">})</span><span class="p">;</span>
+async <span class="k">function </span>createContract<span class="o">()</span> <span class="o">{</span>
+    // Let<span class="s1">'s first create the contract transaction.
+    const contractTx = await arweave.createTransaction({ data: contractSource }, wallet);
+    contractTx.addTag('</span>App-Name<span class="s1">', '</span>SmartWeaveContractSource<span class="s1">');
+    contractTx.addTag('</span>App-Version<span class="s1">', '</span>0.3.0<span class="s1">');
+    contractTx.addTag('</span>Content-Type<span class="s1">', '</span>application/javascript<span class="s1">');
+    
+    // Sign
+    await arweave.transactions.sign(contractTx, wallet);
+    // Let'</span>s keep the ID, it will be used <span class="k">in </span>the state transaction.
+    const contractSourceTxId <span class="o">=</span> contractTx.id<span class="p">;</span>
+    
+    // Deploy the contract <span class="nb">source
+    </span>await arweave.transactions.post<span class="o">(</span>contractTx<span class="o">)</span><span class="p">;</span>
+    
+    // Now, <span class="nb">let</span><span class="s1">'s create the Initial State transaction
+    const initialStateTx = await arweave.createTransaction({ data: initialState }, wallet);
+    initialState.addTag('</span>App-Name<span class="s1">', '</span>SmartWeaveContract<span class="s1">');
+    initialState.addTag('</span>App-Version<span class="s1">', '</span>0.3.0<span class="s1">');
+    initialState.addTag('</span>Contract-Src<span class="s1">', contractSourceTxId);
+    initialState.addTag('</span>Content-Type<span class="s1">', '</span>application/json<span class="s1">');
+    
+    // Sign
+    await arweave.transactions.sign(initialState, wallet);
+    const initialStateTxId = initialState.id;
+    // Deploy
+    await arweave.transactions.post(initialState);
+}
+createContract();
+
+</span></code></pre></div></div>
+:ET
