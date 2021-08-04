@@ -11,8 +11,6 @@ permalink: docs/Owning-and-Storing-Atomic-NFTs
 {: .fs-9 }
 
 <br>
-Write something here...
+The Koii Framework makes all content user-owned and decentralized stored, allowing for new types of platforms and ecosystems.
 {: .fs-6 .fw-400 }
 
-(explain more)
-{: .fs-3 .fw-400 }

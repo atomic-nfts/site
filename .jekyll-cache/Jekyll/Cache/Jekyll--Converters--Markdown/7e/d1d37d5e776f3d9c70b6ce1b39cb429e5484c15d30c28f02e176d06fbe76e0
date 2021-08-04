@@ -1,0 +1,15 @@
+I"q<h1 class="fs-9" id="key-security">Key Security</h1>
+
+<p><br />
+One of the primary reasons blockchain systems have received widespread attention has been their ability to provide secure networks without trusting a central entity. Despite this, there are some limitations of the blockchain approach, and understanding them is key to properly deploying new products and solutions.</p>
+
+<h2 id="managing-your-keys">MANAGING YOUR KEYS</h2>
+
+<h3 id="in-the-past-an-8-digit-password-was-nearly-impossible-to-crack-but-in-2020-its-not-only-possible---its-easy">IN THE PAST, AN 8 DIGIT PASSWORD WAS NEARLY IMPOSSIBLE TO CRACK, BUT IN 2020, IT’S NOT ONLY POSSIBLE - IT’S EASY.</h3>
+
+<p>Staying safe online is about more than just a strong secret key. Avoiding illegal torrents and other un-verified downloads is a good place to start, but when it comes to corporate e-governance, things get even more complicated. Software review, careful audits, and change management should all be high priorities for any decentralized projects. Storing private keys in a publicly accessible place can introduce a crime of opportunity when not already present.</p>
+
+<p>In addition, a weak quality password could make it possible for any computer with a modern video card to crack your password. The problem is made worse by the existence of inexpensive, on-demand processing, for example, through a traditional cloud provider. Finally, ensuring your source of entropy/randomness was sufficient during account creation may not be something the end-user has control over, however, this can be a major weakness after keys were already thought to have been secured.</p>
+
+<p>Aside from actual wallets being hacked, there is always the risk that a developer’s Github account could be compromised, in which case a bad actor could add malicious code into the client software for the blockchain network. In the past, bad actors have gone as far as to join the development communities for modules which were used in other software, such as the cryptographic libraries used in the Bitcoin client, and sought to create security loopholes by pushing malicious code to those dependencies.</p>
+:ET
