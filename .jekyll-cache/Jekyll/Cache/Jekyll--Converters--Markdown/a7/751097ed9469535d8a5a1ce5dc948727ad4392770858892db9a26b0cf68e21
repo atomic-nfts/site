@@ -1,0 +1,34 @@
+I"E
+<h2 class="fs-9" id="lock">Lock</h2>
+
+<p>The ‘Lock’ method contains a function for</p>
+
+<p>The section below shows an example of a possible lock function:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">export </span>default <span class="k">function </span>lock<span class="o">(</span>state, action<span class="o">)</span> <span class="o">{</span>
+  const input <span class="o">=</span> action.input<span class="p">;</span>
+  const <span class="nb">caller</span> <span class="o">=</span> action.caller<span class="p">;</span>
+  const delegatedOwner <span class="o">=</span> input.delegatedOwner<span class="p">;</span>
+  ContractAssert<span class="o">(</span>delegatedOwner, <span class="sb">`</span>No target specified.<span class="sb">`</span><span class="o">)</span><span class="p">;</span>
+  const qty <span class="o">=</span> input.qty<span class="p">;</span>
+  ContractAssert<span class="o">(</span>qty, <span class="sb">`</span>No quantity specified.<span class="sb">`</span><span class="o">)</span><span class="p">;</span>
+  const balances <span class="o">=</span> state.balances<span class="p">;</span>
+  ContractAssert<span class="o">(</span>
+    <span class="nb">caller </span><span class="k">in </span>balances <span class="o">&amp;&amp;</span> balances[caller] <span class="o">&gt;=</span> qty,
+    <span class="sb">`</span>Caller has insufficient funds<span class="sb">`</span>
+  <span class="o">)</span><span class="p">;</span>
+  balances[caller] -<span class="o">=</span> qty<span class="p">;</span>
+  <span class="k">if</span> <span class="o">(!(</span>delegatedOwner <span class="k">in </span>balances<span class="o">))</span> <span class="o">{</span>
+    balances[delegatedOwner] <span class="o">=</span> 0<span class="p">;</span>
+  <span class="o">}</span>
+  balances[delegatedOwner] +<span class="o">=</span> qty<span class="p">;</span>
+
+  const ethOwnerAddress <span class="o">=</span> input.ethOwnerAddress<span class="p">;</span>
+  ContractAssert<span class="o">(</span>ethOwnerAddress, <span class="sb">`</span>No ethereum address specified.<span class="sb">`</span><span class="o">)</span><span class="p">;</span>
+  state.ethOwnerAddress <span class="o">=</span> ethOwnerAddress<span class="p">;</span>
+  <span class="k">return</span> <span class="o">{</span> state <span class="o">}</span><span class="p">;</span>
+<span class="o">}</span>
+</code></pre></div></div>
+
+<p>This is only an example of the implementation, but can provides the default functionality needed for interoperability with existing Atomic NFT standards.</p>
+:ET

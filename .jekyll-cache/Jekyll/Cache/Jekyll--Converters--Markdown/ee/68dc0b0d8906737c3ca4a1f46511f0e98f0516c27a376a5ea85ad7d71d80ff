@@ -1,0 +1,31 @@
+I"z<h2 class="fs-9" id="unlock">Unlock</h2>
+
+<p>The ‘Unlock’ method contains a function for</p>
+
+<p>The section below shows an example of a possible lock function:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">export </span>default <span class="k">function </span>unlock<span class="o">(</span>state, action<span class="o">)</span> <span class="o">{</span>
+  const input <span class="o">=</span> action.input<span class="p">;</span>
+  const balances <span class="o">=</span> state.balances<span class="p">;</span>
+  const addresses <span class="o">=</span> Object.keys<span class="o">(</span>balances<span class="o">)</span><span class="p">;</span>
+  <span class="k">for</span> <span class="o">(</span>const address of addresses<span class="o">)</span> <span class="o">{</span>
+    delete balances[address]<span class="p">;</span>
+  <span class="o">}</span>
+
+  const qty <span class="o">=</span> input.qty<span class="p">;</span>
+  ContractAssert<span class="o">(</span>qty, <span class="sb">`</span>No quantity specified.<span class="sb">`</span><span class="o">)</span><span class="p">;</span>
+  const arweaveAddress <span class="o">=</span> input.arweaveAddress<span class="p">;</span>
+  ContractAssert<span class="o">(</span>arweaveAddress, <span class="sb">`</span>No arweaveAddress specified.<span class="sb">`</span><span class="o">)</span><span class="p">;</span>
+  <span class="k">if</span> <span class="o">(!(</span>arweaveAddress <span class="k">in </span>balances<span class="o">))</span> <span class="o">{</span>
+    balances[arweaveAddress] <span class="o">=</span> 0<span class="p">;</span>
+  <span class="o">}</span>
+  balances[arweaveAddress] +<span class="o">=</span> qty<span class="p">;</span>
+  delete state.ethOwnerAddress<span class="p">;</span>
+
+  <span class="k">return</span> <span class="o">{</span> state <span class="o">}</span><span class="p">;</span>
+<span class="o">}</span>
+
+</code></pre></div></div>
+
+<p>This is only an example of the implementation, but can provides the default functionality needed for interoperability with existing Atomic NFT standards.</p>
+:ET

@@ -138,5 +138,7 @@ slidelist: [
   "Dynamic",
   "Required-features-of-an-atomic-NFT",
   "Transfer",
-  "General-definition-of-an-atomic-NFT"
+  "General-definition-of-an-atomic-NFT",
+  "lock",
+  "unlock"
 ]

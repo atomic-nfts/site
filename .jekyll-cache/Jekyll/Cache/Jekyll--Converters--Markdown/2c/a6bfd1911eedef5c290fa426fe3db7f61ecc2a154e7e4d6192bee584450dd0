@@ -1,0 +1,33 @@
+I"&<h2 class="fs-9" id="balance">Balance</h2>
+
+<p>The ‘balance’ method contains a function for retrieving the balance of a specific wallet from the state of the NFT object.</p>
+
+<p>The section below shows an example of a possible balance function:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">export </span>default <span class="k">function </span>balance<span class="o">(</span>state, action<span class="o">)</span> <span class="o">{</span>
+  const input <span class="o">=</span> action.input<span class="p">;</span>
+  const <span class="nb">caller</span> <span class="o">=</span> action.caller<span class="p">;</span>
+  <span class="nb">let </span>target<span class="p">;</span>
+  <span class="k">if</span> <span class="o">(</span>input.target<span class="o">)</span> <span class="o">{</span>
+    target <span class="o">=</span> input.target<span class="p">;</span>
+  <span class="o">}</span> <span class="k">else</span> <span class="o">{</span>
+    target <span class="o">=</span> <span class="nb">caller</span><span class="p">;</span>
+  <span class="o">}</span>
+  const ticker <span class="o">=</span> state.ticker<span class="p">;</span>
+  const balances <span class="o">=</span> state.balances<span class="p">;</span>
+  ContractAssert<span class="o">(</span>
+    typeof target <span class="o">===</span> <span class="s2">"string"</span>,
+    <span class="sb">`</span>Must specify target to retrieve balance <span class="k">for</span>.<span class="sb">`</span>
+  <span class="o">)</span><span class="p">;</span>
+  <span class="k">return</span> <span class="o">{</span>
+    result: <span class="o">{</span>
+      target,
+      ticker,
+      balance: target <span class="k">in </span>balances ? balances[target] : 0
+    <span class="o">}</span>
+  <span class="o">}</span><span class="p">;</span>
+<span class="o">}</span>
+</code></pre></div></div>
+
+<p>This is only an example of the implementation, but can provides the default functionality needed for interoperability with existing Atomic NFT standards.</p>
+:ET
