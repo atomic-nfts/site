@@ -43,13 +43,13 @@
   },"7": {
     "doc": "Key Security",
     "title": "Key Security",
-    "content": " ",
+    "content": "# Key Security {: .fs-9 } ",
     "url": "https://atomicnft.com/docs/Owning-and-Storing-Atomic-NFTs/Key-Security/",
     "relUrl": "/docs/Owning-and-Storing-Atomic-NFTs/Key-Security/"
   },"8": {
     "doc": "Owning and Storing Atomic NFTs",
     "title": "Owning and Storing Atomic NFTs",
-    "content": " ",
+    "content": "## Owning and Storing Atomic NFTs {: .fs-9 } Write something here... {: .fs-6 .fw-400 } (explain more) {: .fs-3 .fw-400 } ",
     "url": "https://atomicnft.com/docs/Owning-and-Storing-Atomic-NFTs",
     "relUrl": "/docs/Owning-and-Storing-Atomic-NFTs"
   },"9": {
@@ -61,7 +61,7 @@
   },"10": {
     "doc": "The Finnie Wallet",
     "title": "The Finnie Wallet",
-    "content": " ",
+    "content": "# The Finnie Wallet {: .fs-9 } ",
     "url": "https://atomicnft.com/docs/Owning-and-Storing-Atomic-NFTs/The-Finnie-Wallet/",
     "relUrl": "/docs/Owning-and-Storing-Atomic-NFTs/The-Finnie-Wallet/"
   },"11": {
@@ -73,7 +73,7 @@
   },"12": {
     "doc": "Using-a-Wallet",
     "title": "Using-a-Wallet",
-    "content": " ",
+    "content": "# Using a Wallet {: .fs-9 } [Add Finnie Wallet](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target=\"_blank\" } ",
     "url": "https://atomicnft.com/docs/Owning-and-Storing-Atomic-NFTs/Using-a-Wallet/",
     "relUrl": "/docs/Owning-and-Storing-Atomic-NFTs/Using-a-Wallet/"
   },"13": {

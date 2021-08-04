@@ -5,3 +5,6 @@ title: The Finnie Wallet
 parent: Owning and Storing Atomic NFTs
 nav_order: 3
 ---
+
+# The Finnie Wallet
+{: .fs-9 }
