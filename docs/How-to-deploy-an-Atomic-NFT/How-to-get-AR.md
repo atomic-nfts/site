@@ -1,5 +1,6 @@
 ---
 layout: default
+slideId: How-to-get-AR
 title: How to get AR
 parent: How to deploy an Atomic NFT
 permalink: https://koi.rocks/faucet

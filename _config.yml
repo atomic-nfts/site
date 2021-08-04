@@ -122,3 +122,21 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+slidelist: [
+  "Example-deployment-script",
+  "How-to-deploy-an-Atomic-NFT",
+  "How-to-get-AR",
+  "What-is-Arweave",
+  "What-is-smartweave",
+  "Key-Security",
+  "Owning-and-Storing-Atomic-NFTs",
+  "The-Finnie-Wallet",
+  "Using-a-Wallet",
+  "Balance",
+  "Bridging-Support",
+  "Dynamic",
+  "Required-features-of-an-atomic-NFT",
+  "Transfer",
+  "General-definition-of-an-atomic-NFT"
+]

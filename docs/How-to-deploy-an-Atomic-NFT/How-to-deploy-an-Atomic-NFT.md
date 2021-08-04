@@ -1,5 +1,6 @@
 ---
 layout: default
+slideId: How-to-deploy-an-Atomic-NFT
 title: How to deploy an Atomic NFT
 nav_order: 3
 has_children: true

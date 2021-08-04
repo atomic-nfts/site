@@ -1,5 +1,6 @@
 ---
 layout: default
+slideId: Dynamic
 title: (optional) Dynamic
 parent: Required features of an atomic NFT
 nav_order: 3

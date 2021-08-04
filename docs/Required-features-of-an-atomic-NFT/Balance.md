@@ -1,5 +1,6 @@
 ---
 layout: default
+slideId: Balance
 title: Balance
 parent: Required features of an atomic NFT
 nav_order: 1
