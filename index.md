@@ -6,18 +6,17 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Welcome to Atomic NFTs
+# What's this?
 {: .fs-9 }
 
-Write something here...
+Atomic NFTs make it possible to sign and own pieces of the public decentralized data commons. 
 {: .fs-6 .fw-300 }
 
-[Add Finnie](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" } [Try yourself](https://koi.rocks){: .btn .fs-5 .mb-4 .mb-md-0 target="_blank"}
+To see some Atomic Content in action, you can get the [Koii Finnie Wallet](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj) or browse some content from the community on the [koi.rocks attention leaderboard](https://koi.rocks/).
+
+[Try the Easy Way](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" } [Learn More](/docs/General-definition-of-an-atomic-NFT/){: .btn .fs-5 .mb-4 .mb-md-0}
 
 ---
 
-## Getting started
-
-### Dependencies
 
 

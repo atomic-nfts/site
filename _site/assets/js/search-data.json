@@ -25,13 +25,13 @@
   },"4": {
     "doc": "General definition of an atomic NFT",
     "title": "General definition of an atomic NFT",
-    "content": "## General definition of an atomic NFT {: .fs-9 } Atomic NFT is a standard for Non Fungible Tokens (NFTs) on Koii. Anyone can utilize the Atomic NFT standard to tokenize and create digital assets and buy, sell & auction assets utilizing the marketplace(). Alongside its smart contract creation platform Atomic Market. Atomic Market is a shared liquidity NFT market smart contract that is used by multiple websites to try and provide users the best possible experience. Shared liquidity means that everything which is listed on one market also shows on all other markets. [Visit Market](https://koi.rocks){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target=\"_blank\" } ",
+    "content": "## General definition of an Atomic NFT {: .fs-9 } Atomic NFT is a standard for Non Fungible Tokens (NFTs) on Koii. Anyone can utilize the Atomic NFT standard to tokenize and create digital assets and buy, sell & auction assets utilizing the marketplace. The Koii Network facilitates a range of services associated with Atomic NFTs by default, and most of these are commission-lite or commission-free. Because Atomic NFTs all follow a common standard, they are interchangable between all compatible applications, as well as bridges to other chains and formats like Ethereum (and EVM), Tezos, and Polkadot. [Start Building](/docs/How-to-deploy-an-Atomic-NFT/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [See the Global Leaderboard](https://koi.rocks){: .btn .fs-5 .mb-4 .mb-md-0 target=\"_blank\"} ",
     "url": "https://atomicnft.com/docs/General-definition-of-an-atomic-NFT/",
     "relUrl": "/docs/General-definition-of-an-atomic-NFT/"
   },"5": {
     "doc": "How to deploy an Atomic NFT",
     "title": "How to deploy an Atomic NFT",
-    "content": "## How to deploy an Atomic NFT {: .fs-9 } Write something here... {: .fs-6 .fw-400 } (Go to koi.rocks › download Finnie › upload wallet › deploy NFT › hooray!) {: .fs-3 .fw-400 } ",
+    "content": "## How to deploy an Atomic NFT {: .fs-9 } All you need to deploy NFTs is a text editor and an internet connection. {: .fs-6 .fw-400 } An Atomic NFT is not unlike an NFT on Ethereum or similar networks. The only difference is that Atomic NFTs are stored on a storage network. This makes it possible to store the content along with the contract, which creates a single universal piece of media. Over time, subsequent transactions can write to this data \"object\" and update it, creating truly common data sets. {: .fs-3 .fw-400 } ",
     "url": "https://atomicnft.com/docs/How-to-deploy-an-Atomic-NFT",
     "relUrl": "/docs/How-to-deploy-an-Atomic-NFT"
   },"6": {
@@ -91,7 +91,7 @@
   },"15": {
     "doc": "Home",
     "title": "Home",
-    "content": "# Welcome to Atomic NFTs {: .fs-9 } Write something here... {: .fs-6 .fw-300 } [Add Finnie](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target=\"_blank\" } [Try yourself](https://koi.rocks){: .btn .fs-5 .mb-4 .mb-md-0 target=\"_blank\"} --- ## Getting started ### Dependencies ",
+    "content": "# What's this? {: .fs-9 } Atomic NFTs make it possible to sign and own pieces of the public decentralized data commons. {: .fs-6 .fw-300 } To see some Atomic Content in action, you can get the [Koii Finnie Wallet](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj) or browse some content from the community on the [koi.rocks attention leaderboard](https://koi.rocks/). [Try the Easy Way](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target=\"_blank\" } [Learn More](/docs/General-definition-of-an-atomic-NFT/){: .btn .fs-5 .mb-4 .mb-md-0} --- ",
     "url": "https://atomicnft.com/",
     "relUrl": "/"
   },"16": {

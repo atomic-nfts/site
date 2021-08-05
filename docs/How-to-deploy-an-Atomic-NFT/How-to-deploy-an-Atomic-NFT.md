@@ -11,8 +11,10 @@ permalink: /docs/How-to-deploy-an-Atomic-NFT
 {: .fs-9 }
 
 <br>
-Write something here...
+All you need to deploy NFTs is a text editor and an internet connection. 
 {: .fs-6 .fw-400 }
 
-(Go to koi.rocks › download Finnie › upload wallet › deploy NFT › hooray!)
+An Atomic NFT is not unlike an NFT on Ethereum or similar networks. The only difference is that Atomic NFTs are stored on a storage network. This makes it possible to store the content along with the contract, which creates a single universal piece of media. 
+
+Over time, subsequent transactions can write to this data "object" and update it, creating truly common data sets. 
 {: .fs-3 .fw-400 }

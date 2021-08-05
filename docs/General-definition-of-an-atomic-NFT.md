@@ -5,13 +5,13 @@ title: General definition of an atomic NFT
 nav_order: 2
 ---
 
-## General definition of an atomic NFT
+## General definition of an Atomic NFT
 {: .fs-9 }
 
 Atomic NFT is a standard for Non Fungible Tokens (NFTs) on Koii. 
 
-Anyone can utilize the Atomic NFT standard to tokenize and create digital assets and buy, sell & auction assets utilizing the marketplace(). 
+Anyone can utilize the Atomic NFT standard to tokenize and create digital assets and buy, sell & auction assets utilizing the marketplace. 
 
-Alongside its smart contract creation platform Atomic Market. Atomic Market is a shared liquidity NFT market smart contract that is used by multiple websites to try and provide users the best possible experience. Shared liquidity means that everything which is listed on one market also shows on all other markets.
+The Koii Network facilitates a range of services associated with Atomic NFTs by default, and most of these are commission-lite or commission-free. Because Atomic NFTs all follow a common standard, they are interchangable between all compatible applications, as well as bridges to other chains and formats like Ethereum (and EVM), Tezos, and Polkadot.
 
-[Visit Market](https://koi.rocks){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
+[Start Building](/docs/How-to-deploy-an-Atomic-NFT/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [See the Global Leaderboard](https://koi.rocks){: .btn .fs-5 .mb-4 .mb-md-0 target="_blank"}
