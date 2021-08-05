@@ -7,6 +7,9 @@ has_children: true
 permalink: docs/Required-features-of-an-atomic-NFT
 ---
 
+[Try examples here](https://github.com/atomic-nfts/standard)
+{: .fs-2 .fw-400 }
+
 ### Required Features 
 {: .fs-9 }
 

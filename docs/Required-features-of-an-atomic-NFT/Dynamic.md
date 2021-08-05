@@ -9,14 +9,8 @@ nav_order: 5
 ## Dynamic
 {: .fs-9 }
 
+Dynamic NFTs are quite a bit more complicated, and use an iframe compressed into an html payload to prepare a final payload. 
 
-The 'dynamic' method contains a function for allowing the contract to transfer your token and must be approved.
-
-The section below shows an example of a possible transfer function:
-
-
-```bash
-
-```
+The dynamic element comes from the NFT's internal programming, which can retrieve information from an Arweave gateway, and can change their appearance to respond to the latest contract state. 
 
 This is only an example of the implementation, but can provides the default functionality needed for interoperability with existing Atomic NFT standards.

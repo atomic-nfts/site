@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 # General Tips
-For an example of how to deploy an Atomic NFT, you need look no further than our handy [github repo](https://github.com/atomic-nft/standard).
+For an example of how to deploy an Atomic NFT, you need look no further than our handy [github repo](https://github.com/atomic-nfts/standard).
 
 Contained in this repo, you'll find a handful of helpful scripts in the `bin/` subdirectory, along with contract examples in the `src/` directory. 
 

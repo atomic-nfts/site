@@ -10,6 +10,9 @@ permalink: /docs/How-to-deploy-an-Atomic-NFT
 ## How to deploy an Atomic NFT
 {: .fs-9 }
 
+[Try an example here](https://github.com/atomic-nfts/standard)
+{: .fs-2 .fw-400 }
+
 <br>
 All you need to deploy NFTs is a text editor and an internet connection. 
 {: .fs-6 .fw-400 }
