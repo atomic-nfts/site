@@ -9,11 +9,9 @@ nav_order: 2
 ## Transfer
 {: .fs-9 }
 
+The 'transfer' method contains a function for allowing the contract to transfer your token and must be implemented to work similarly to the example below.
 
-The 'transfer' method contains a function for allowing the contract to transfer your token and must be approved.
-
-The section below shows an example of a possible transfer function:
-
+Example of a possible transfer function:
 
 ```bash
 export default function transfer(state, action) {
@@ -39,4 +37,4 @@ export default function transfer(state, action) {
 }
 ```
 
-This is only an example of the implementation, but can provides the default functionality needed for interoperability with existing Atomic NFT standards.
+This is only an example of the implementation, but can provides the default functionality and state structure needed for interoperability with existing Atomic NFT standards.

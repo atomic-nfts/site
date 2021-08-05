@@ -7,6 +7,7 @@ nav_order: 4
 ---
 
 # How to get AR
+In order to deploy your contract, you'll need to pay some AR tokens. In the future, there will be some ways to deploy Koii contracts using only Koii tokens and other tokens in Atomic Swaps.
 
 <br>
 

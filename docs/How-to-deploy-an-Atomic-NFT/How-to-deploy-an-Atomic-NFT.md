@@ -15,6 +15,10 @@ All you need to deploy NFTs is a text editor and an internet connection.
 {: .fs-6 .fw-400 }
 
 An Atomic NFT is not unlike an NFT on Ethereum or similar networks. The only difference is that Atomic NFTs are stored on a storage network. This makes it possible to store the content along with the contract, which creates a single universal piece of media. 
+{: .fs-3 .fw-400 }
 
 Over time, subsequent transactions can write to this data "object" and update it, creating truly common data sets. 
+{: .fs-3 .fw-400 }
+
+If you're already familiar with Arweave and Smartweave, or just wnat to get into the meat of it, you can skip to 'Deploy an Atomic NFT'.
 {: .fs-3 .fw-400 }

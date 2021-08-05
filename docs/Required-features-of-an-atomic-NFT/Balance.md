@@ -8,8 +8,11 @@ nav_order: 1
 ## Balance 
 {: .fs-9 }
 
+The 'balance' method must contain a function for retrieving the balance of a specific wallet from the state of the NFT object.
 
-The 'balance' method contains a function for retrieving the balance of a specific wallet from the state of the NFT object.
+This is a crucial feature, as the control of all internal methods will depend on whether the function caller owns any instances of the token.
+
+The balances of all owners are tracked in `state.balances` in the format of `address: balance` where `balance` is an integer.
 
 The section below shows an example of a possible balance function:
 

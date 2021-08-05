@@ -1,17 +1,29 @@
 ---
 layout: default
 slideId: Example-deployment-script
-title: Example deployment script
+title: Deploy an Atomic NFT
 parent: How to deploy an Atomic NFT
 nav_order: 3
 ---
 
-# Example deployment script
+# General Tips
+For an example of how to deploy an Atomic NFT, you need look no further than our handy [github repo](https://github.com/atomic-nft/standard).
 
+Contained in this repo, you'll find a handful of helpful scripts in the `bin/` subdirectory, along with contract examples in the `src/` directory. 
+
+## Deployment Process
+In order to deploy an Atomic NFT, you first need to have an already-deployed template contract. Currently Koii has three of these available:
+
+1. Standard NFT (similar to koi.rocks or Finnie wallet defaults) - [I8xgq3361qpR8_DvqcGpkCYAUTMktyAgvkm6kGhJzEQ](https://viewblock.io/arweave/tx/I8xgq3361qpR8_DvqcGpkCYAUTMktyAgvkm6kGhJzEQ)
+
+2. Erc1155 Bridge-Compatible NFT - [1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo](https://viewblock.io/arweave/tx/1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo)
+
+3. *(Experimental)* Dynamic NFT - [1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo](https://viewblock.io/arweave/tx/1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo)
+
+This can be attached to your contract by including a meta tag `initialState.addTag('Contract-Src', contractSourceTxId);` as shown in the following section.
+
+## Example Deployment Script
 <br>
-
-This one was founded at [here](https://cedriking.medium.com/lets-buidl-smartweave-contracts-6353d22c4561){:target = "_blank"}.
-
 
 ```bash
 

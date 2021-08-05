@@ -7,7 +7,12 @@ has_children: true
 permalink: docs/Required-features-of-an-atomic-NFT
 ---
 
-### Required features of an atomic NFT
+### Required Features 
 {: .fs-9 }
+
+In order for your NFT to be compatible with existing wallets and systems, it will need to follow the correct format. 
+
+The sections below detail methods and state object configurations required to work with Koii bridges and wallets, as well as most other networks.
+
 
 
