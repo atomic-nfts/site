@@ -204,18 +204,26 @@ layout: table_wrappers
     {% endif %}
   </div>
   <div class="sourceDetails">
+    <style>
+      a#editOnGithubButton {
+          z-index: 999;
+          display: block;
+          position: fixed;
+          bottom: 6px;
+          right: 6px;
+      }
+    </style>
     <a target="_blank" href="https://github.com/atomic-nfts/site/"
         id="editOnGithubButton">
-        <i class="fas fa-pencil-alt"></i>
-        <span class="visually-hidden">Suggest edits on GitHub</span>
+        <span>Suggest edits on GitHub</span>
     </a>
     <script>
-        var path = "{{ page.path }}"
+        var path = "{{ page.path }}";
         if ("_" === path.charAt(0)) {
-            path = "all_collections/" + path
+            path = "all_collections/" + path;
         }
-        path = "https://github.com/atomic-nfts/site/blob/main/" + path
-        console.log(path)
+        path = "https://github.com/atomic-nfts/site/blob/main/" + path;
+        console.log(path);
 
         document.getElementById('editOnGithubButton').href = path;
     </script>
