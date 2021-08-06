@@ -8,7 +8,7 @@ nav_order: 2
 ## What is an Atomic NFT?
 {: .fs-9 }
 
-Atomic NFT is a standard for Non Fungible Tokens (NFTs) on Koii. 
+Atomic NFT is a standard for Non Fungible Tokens (NFTs) where the media assets and contract metadata are stored together immutably under a single unique identifier.
 
 Anyone can utilize the Atomic NFT standard to tokenize and create digital assets and buy, sell & auction assets utilizing the marketplace. 
 
