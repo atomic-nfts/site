@@ -23,5 +23,5 @@ An Atomic NFT is not unlike an NFT on Ethereum or similar networks. The only dif
 Over time, subsequent transactions can write to this data "object" and update it, creating truly common data sets. 
 {: .fs-3 .fw-400 }
 
-If you're already familiar with Arweave and Smartweave, or just wnat to get into the meat of it, you can skip to 'Deploy an Atomic NFT'.
+If you're already familiar with Arweave and Smartweave, or just want to get into the meat of it, you can skip to 'Deploy an Atomic NFT'.
 {: .fs-3 .fw-400 }
