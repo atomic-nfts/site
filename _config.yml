@@ -139,6 +139,5 @@ slidelist: [
   "Required-features-of-an-atomic-NFT",
   "Transfer",
   "General-definition-of-an-atomic-NFT",
-  "lock",
-  "unlock"
+  "After-deployment"
 ]
