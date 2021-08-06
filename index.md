@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
+title: The first step to decentralization is ownership.
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Atomic NFTs make it possible to mint millions of NFTs inexpensively, and host them for all to see."
 permalink: /
 ---
 

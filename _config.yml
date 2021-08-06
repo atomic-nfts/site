@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Atomic NFTs
-description: Atomic NFTs
+title: The first step to decentralization is ownership.
+description: Atomic NFTs make it possible to mint millions of NFTs inexpensively, and host them for all to see.
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://atomicnft.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -91,7 +91,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Know more about Koii"
+gh_edit_link_text: "k stands for knowledgeable"
 gh_edit_repository: "https://koii.network" # the github URL for your repo
 gh_edit_branch: "" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
