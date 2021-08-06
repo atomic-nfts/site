@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The first step to decentralization is ownership.
+title: Atomic NFTs
 nav_order: 1
 description: "Atomic NFTs make it possible to mint millions of NFTs inexpensively, and host them for all to see."
 permalink: /
