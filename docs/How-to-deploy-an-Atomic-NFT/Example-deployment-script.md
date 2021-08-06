@@ -20,7 +20,57 @@ In order to deploy an Atomic NFT, you first need to have an already-deployed tem
 
 3. *(Experimental)* Dynamic NFT - [1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo](https://viewblock.io/arweave/tx/1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo)
 
-This can be attached to your contract by including a meta tag `initialState.addTag('Contract-Src', contractSourceTxId);` as shown in the following section.
+
+### Here's how can you deploy your own teplate contract:
+
+First, enter the `/CreateNFT/contracts/` directory:
+
+```
+cd /CreateNFT/contracts/
+```
+
+Second, check the .env file, make sure the path is your arweavewallet.json
+
+```
+WALLET_LOCATION = path/to/your/wallet
+```
+
+Third, in /src/nft/init_state.json file, edit this to your info.
+
+You're all set, now let's deploy the template contracts:
+
+```
+yarn deploy [contract]
+```
+
+Examples:
+
+- `yarn deploy koii`
+- `yarn deploy attention`
+
+This will return a contract ID, which you'll need in the next step.
+
+###  Deploy the Atomic NFTs
+
+Now let's deploy the Atomic NFT:
+
+Check the creatingNewNFT.js file. Change the info to your own:
+
+Remember to change the contract ID:
+
+```
+contractSrc => [contract ID]
+
+```
+
+After the info is finished, deploy it:
+
+```
+node creatingNewNFT.js
+```
+
+You're all done, Just a few minutes you could search your txID on [https://viewblock.io/arweave](https://viewblock.io/arweave)
+
 
 ## Example Deployment Script
 <br>
