@@ -106,3 +106,12 @@ hr {
   background-color: $border-color;
   border: 0;
 }
+
+.video {
+  width: 740px;
+  height: 420px;
+  @media (max-width:450px) {
+    width:350px;
+    height: 240px;  
+  }
+}
