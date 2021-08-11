@@ -9,18 +9,6 @@ permalink: /
 # What's this?
 {: .fs-9 }
 
-<div class="col-md-6 intro-finnie-video">
-            <video controls class="video">
-                <source src="/AtomicNFTs.mp4" type="video/mp4">
-                <source src="/AtomicNFTs.ogg" type="video/ogg">
-                <source src="/AtomicNFTs.webm" type="video/webm">
-                <object data="/AtomicNFTs.mp4" width="640" height="480">
-                  <embed src="/AtomicNFTs.swf" width="640" height="480">
-                </object>
-              </video>
-                
-</div>
-
 Atomic NFTs make it possible to sign and own pieces of the public decentralized data commons. 
 {: .fs-6 .fw-300 }
 
