@@ -1,31 +1,31 @@
 ---
 layout: default
-slideId: After-deployment
-title: After deployment
+slideId: After-Deployment
+title: After Deployment
 parent: How to deploy an Atomic NFT
 nav_order: 5
 ---
 
-# After deployment
+# After Deployment
 
-Congratulations! Now you deploy an Atomic NFT! Here're the ways you can confirm it.
+Congratulations! Now you've deployed an Atomic NFT! Here's how you can verify the transaction.
 
 ## How to find your template contract and atomic NFT
 
-After you deploy a template contract, you will get this
+After you deploy a template contract, you will see something like this
 
 ![ID image](/assets/images/templateID.png)
 
-You can copy the ID and found your template contract at here
+Copy the ID to find your template contract on the block explorer.
 
 ```bash
  https://viewblock.io/arweave/tx/yourID
 ```
 
-The template contract gonna be looks like this:
+The template contract will look like this:
 
 ![template contract](/assets/images/contract-template.png)
 
-Your Atomic NFT gonna be looks like this:
+And your Atomic NFT will look like this:
 
 ![template contract](/assets/images/Atomic-NFT.png)
