@@ -12,15 +12,16 @@ permalink: /
 Atomic NFTs make it possible to sign and own pieces of the public decentralized data commons. 
 {: .fs-6 .fw-300 }
 
-To see some Atomic Content in action, you can get the [Koii Finnie Wallet](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj) or browse some content from the community on the [koi.rocks attention leaderboard](https://koi.rocks/).
+To see some Atomic content in action, you can get [Koii's Finnie Wallet](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj) or browse some content from the community on the [koi.rocks attention leaderboard](https://koi.rocks/).
 {: .fs-4 .fw-300 }
 
 
 ## Why use Atomic NFTs?
-- Storage Networks like [Arweave](https://arweave.org) have much lower gas fees
-- Much less energy is used, and utilities can be added with [Gradual Consensus](https://koii.network/gradual-consensus.pdf)
-- Media files can never be separated from the contracts that control their ownership
-- All content receives KOII tokens any time it is viewed ([Learn More](https://koii.network/lightpaper.pdf))
+- Storage Networks like [Arweave](https://arweave.org) have incredibly low gas fees (mint each NFT for less than $00.01)
+- Much less energy is used, since Atomic NFTs use [Proofs of Real Traffic](https://koii.network/proofs-of-real-traffic.pdf) instead of Proof of Work
+- Utilities can be added with [Gradual Consensus](https://koii.network/gradual-consensus.pdf)
+- Media files are stored with contracts that control their ownership. They can never be separated.
+- All content receives KOII tokens any time it is viewed with [attention rewards](https://koii.network/lightpaper.pdf))
 
 
 ## Start Building 
