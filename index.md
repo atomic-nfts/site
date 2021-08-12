@@ -9,7 +9,7 @@ permalink: /
 # What's this?
 {: .fs-9 }
 
-Atomic NFTs make it possible to sign and own pieces of the public decentralized data commons. 
+Atomic NFTs make it possible to sign and own pieces of the public decentralized data commons.     
 {: .fs-6 .fw-300 }
 
 To see some Atomic Content in action, you can get the [Koii Finnie Wallet](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj) or browse some content from the community on the [koi.rocks attention leaderboard](https://koi.rocks/).
