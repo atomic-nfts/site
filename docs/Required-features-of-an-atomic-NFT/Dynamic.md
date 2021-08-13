@@ -2,7 +2,7 @@
 layout: default
 slideId: Dynamic
 title: Dynamic (optional)
-parent: Required features of an Atomic NFT
+parent: Features of an Atomic NFT
 nav_order: 5
 ---
 
