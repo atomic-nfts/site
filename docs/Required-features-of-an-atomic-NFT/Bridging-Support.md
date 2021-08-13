@@ -1,20 +1,20 @@
 ---
 layout: default
 slideId: Bridging-Support 
-title: (optional) Bridging Support
-parent: Required features of an atomic NFT
+title: Bridging Support (optional)
+parent: Features of an Atomic NFT
 nav_order: 6
 ---
 
-# Bridging Support
+## Bridging Support
 {: .fs-9 }
 
-The 'Lock' and 'Unlock' methods contain function for delegating ownership of an NFT when bridging to another chain. 
+The 'lock' and 'unlock' methods contain the function for delegating ownership of an NFT when bridging to another chain. 
 
 ## Lock 
 {: .fs-6 }
 
-The section below shows an example of a possible lock function:
+The section below shows an example of a possible 'lock' function:
 
 ```bash
 export default function lock(state, action) {
@@ -45,9 +45,9 @@ export default function lock(state, action) {
 ## Unlock 
 {: .fs-6 }
 
-The 'Unlock' method handles removing an NFT from custodianship.
+The 'unlock' method handles removing an NFT from custodianship.
 
-The section below shows an example of a possible unlock function:
+The section below shows an example of a possible 'unlock' function:
 
 ```bash
 export default function unlock(state, action) {
