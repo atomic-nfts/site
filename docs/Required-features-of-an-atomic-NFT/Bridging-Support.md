@@ -2,7 +2,7 @@
 layout: default
 slideId: Bridging-Support 
 title: Bridging Support (optional)
-parent: Required features of an Atomic NFT
+parent: Features of an Atomic NFT
 nav_order: 6
 ---
 
