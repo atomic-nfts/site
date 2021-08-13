@@ -9,7 +9,7 @@ nav_order: 3
 # The Finnie Wallet
 {: .fs-9 }
 
-The Finnie Wallet is the newest tool from the Koii Network, where you can create NFTs in under 1 minute, for less than $0.01. (Setup takes about 2 minutes.)
+The Finnie Wallet is the best wallet for digital media, where you can create NFTs in under 1 minute, for less than $0.01. (Setup takes about 2 minutes.)
 
 There are a few really cool features with the Finnie Wallet that make NFTs and digital art more accessible to wider audiences (see this [blog post](https://blog.koii.network/Almost-Infinite/) about Atomic NFTs to learn more):
 - Minting Atomic NFTs is extremely affordable
@@ -27,11 +27,11 @@ We’ll cover 4 things in this tutorial. Feel free to skip ahead if you’ve alr
 3. [Get some free KOII](#part-3-get-some-koii)
 4. [Create an NFT](#part-4-create-an-nft)
 
-*Note:* Our friends at Brokenomics made a great video of this tutorial [here](https://www.youtube.com/watch?v=TUt2gZzHM1E){:target="_blank"}.
+*Note:* Our friends at [Brokenomics](https://www.youtube.com/channel/UCHqet4w8vkrWss0cslE_8cQ){:target="_blank"} made a great video of this tutorial [here](https://www.youtube.com/watch?v=TUt2gZzHM1E){:target="_blank"}.
 
 <iframe width="920" height="480" src="https://www.youtube.com/embed/TUt2gZzHM1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you want to read through for yourself, here's the full steps:
+If you want to read through for yourself, below are the full steps:
 
 # Part 1: Get Finnie
 First, head to the [Google Web Chrome](https://koii.me/Finnieblogpost) store to install the Finnie extension. (You can also find it by searching “Finnie” or “Koii” in the Chrome Store. It is the only result, as of this writing, or [click here](https://koii.me/Finnieblogpost)) 
@@ -104,8 +104,6 @@ Click on the Finnie extension icon. When you see the dropdown, click the button 
 
 Your (likely empty) gallery will open in a new window. Read the Beta version notes and then click out of the box. If you don’t have KOII, there will be a button in the top right corner of the page that says, “No KOII? Get some.”
 
-![Click the button to visit the faucet.](/assets/images/finnieTour/7.png)
-
 This button will take you to the KOII faucet. You’ll skip step #1 (click “Skip ahead”) because you already have the Finnie Wallet.
 
 Then click “Connect Wallet” in the top right corner of the page to visit the faucet.
@@ -151,8 +149,8 @@ Click “Confirm Registration.” After a few moments, your transaction will app
 
 **Better media makes a better world; decentralization lets you own your share of it.**
 
-Join the revolution and pre-register to run a node [here](https://docs.google.com/forms/d/e/1FAIpQLSduDTdxD3dDOvcbIcKlG7JWOsnDFVZFdLy0J38q_OOzUC3okA/viewform){:target="\_blank"}
+Join the revolution and pre-register to run a node [here](https://docs.google.com/forms/d/e/1FAIpQLSduDTdxD3dDOvcbIcKlG7JWOsnDFVZFdLy0J38q_OOzUC3okA/viewform){:target="\_blank"}.
 
-To start earning attention rewards on your NFTs, register them now at [koi.rocks](https://koi.rocks/contents){:target="\_blank"}
+To start earning attention rewards on your NFTs, register them now at [koi.rocks](https://koi.rocks/contents){:target="\_blank"}.
 
 Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5) channel, Koii's [Discord](https://discord.gg/koii), and follow us on [Twitter](https://twitter.com/KoiiNetwork).
