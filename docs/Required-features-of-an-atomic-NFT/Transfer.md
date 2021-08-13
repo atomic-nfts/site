@@ -1,8 +1,8 @@
 ---
 layout: default
 slideId: Transfer
-title: Transfer
-parent: Required features of an atomic NFT
+title: Transfer (required)
+parent: Required features of an Atomic NFT
 nav_order: 2
 ---
 
@@ -37,4 +37,4 @@ export default function transfer(state, action) {
 }
 ```
 
-This is only an example of the implementation, but can provides the default functionality and state structure needed for interoperability with existing Atomic NFT standards.
+This is only one example of the implementation, but it provides the default functionality and state structure needed for interoperability with existing Atomic NFT standards.
