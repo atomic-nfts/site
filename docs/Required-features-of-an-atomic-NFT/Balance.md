@@ -5,7 +5,7 @@ title: Balance
 parent: Required features of an atomic NFT
 nav_order: 1
 ---
-## Balance 
+# Balance 
 {: .fs-9 }
 
 The 'balance' method must contain a function for retrieving the balance of a specific wallet from the state of the NFT object.
