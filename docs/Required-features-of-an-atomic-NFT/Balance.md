@@ -2,7 +2,7 @@
 layout: default
 slideId: Balance
 title: Balance (required)
-parent: Required features of an Atomic NFT
+parent: Features of an Atomic NFT
 nav_order: 1
 ---
 ## Balance 
