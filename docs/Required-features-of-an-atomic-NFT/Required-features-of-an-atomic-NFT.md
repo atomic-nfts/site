@@ -1,6 +1,6 @@
 ---
 layout: default
-slideId: Features-of-an-Atomic-NFT
+slideId: Features-of-an-atomic-NFT
 title: Features of an Atomic NFT
 nav_order: 4
 has_children: true
