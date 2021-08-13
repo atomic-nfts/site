@@ -1,6 +1,6 @@
 ---
 layout: default
-slideId: After-Deployment
+slideId: After-deployment
 title: After Deployment
 parent: How to deploy an Atomic NFT
 nav_order: 5
