@@ -6,7 +6,7 @@ description: "Atomic NFTs make it possible to mint millions of NFTs inexpensivel
 permalink: /
 ---
 
-# What's this?
+## What's this?
 {: .fs-9 }
 
 Atomic NFTs make it possible to sign and own pieces of the public decentralized data commons. 
