@@ -6,7 +6,7 @@ parent: Features of an Atomic NFT
 nav_order: 5
 ---
 
-## Dynamic
+# Dynamic
 {: .fs-9 }
 
 Dynamic NFTs are quite a bit more complicated, and use an iframe compressed into an html payload to prepare a final payload. 
