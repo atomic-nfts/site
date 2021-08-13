@@ -6,7 +6,7 @@ parent: Required features of an atomic NFT
 nav_order: 2
 ---
 
-## Transfer
+# Transfer
 {: .fs-9 }
 
 The 'transfer' method contains a function for allowing the contract to transfer your token and must be implemented to work similarly to the example below.
