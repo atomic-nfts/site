@@ -6,7 +6,7 @@ parent: Features of an Atomic NFT
 nav_order: 2
 ---
 
-## Transfer
+# Transfer
 {: .fs-9 }
 
 The 'transfer' method contains a function for allowing the contract to transfer your token and must be implemented to work similarly to the example below.
@@ -37,4 +37,5 @@ export default function transfer(state, action) {
 }
 ```
 
-This is only one example of the implementation, but it provides the default functionality and state structure needed for interoperability with existing Atomic NFT standards.
+This is only an example of the implementation, but can provides the default functionality and state structure needed for interoperability with existing Atomic NFT standards.
+
