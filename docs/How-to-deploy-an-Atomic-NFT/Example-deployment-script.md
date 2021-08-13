@@ -69,7 +69,7 @@ After the info is finished, deploy it:
 node creatingNewNFT.js
 ```
 
-You're all done, Just a few minutes you could search your txID on [https://viewblock.io/arweave](https://viewblock.io/arweave)
+You're all done. In just a few minutes you'll be able to search for your txID on [https://viewblock.io/arweave](https://viewblock.io/arweave)
 
 
 ## Example Deployment Script

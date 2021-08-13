@@ -1,11 +1,11 @@
 ---
 layout: default
 slideId: Balance
-title: Balance
-parent: Required features of an atomic NFT
+title: Balance (required)
+parent: Features of an Atomic NFT
 nav_order: 1
 ---
-## Balance 
+# Balance 
 {: .fs-9 }
 
 The 'balance' method must contain a function for retrieving the balance of a specific wallet from the state of the NFT object.
@@ -43,3 +43,4 @@ export default function balance(state, action) {
 ```
 
 This is only an example of the implementation, but can provides the default functionality needed for interoperability with existing Atomic NFT standards.
+
