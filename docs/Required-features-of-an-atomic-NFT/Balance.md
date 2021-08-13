@@ -1,8 +1,8 @@
 ---
 layout: default
 slideId: Balance
-title: Balance
-parent: Required features of an atomic NFT
+title: Balance (required)
+parent: Required features of an Atomic NFT
 nav_order: 1
 ---
 ## Balance 
@@ -42,4 +42,4 @@ export default function balance(state, action) {
 }
 ```
 
-This is only an example of the implementation, but can provides the default functionality needed for interoperability with existing Atomic NFT standards.
+This is only one example of the implementation, but it provides the default functionality needed for interoperability with existing Atomic NFT standards.
