@@ -1,0 +1,12 @@
+selectLang:
+  en: "Select Your Language"
+  tr: "Dilinizi seçiniz"
+relatedPosts:
+  en: "Related Posts"
+  tr: "İlgili Mesajlar"
+differentLanguage:
+  en: "Read this page in a different language"
+  tr: "Bu sayfayı farklı bir dilde okuyun"
+viewIn:
+  en: "View in"
+  tr: "Görüntüle"
