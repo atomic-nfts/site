@@ -7,3 +7,6 @@ tr:
 zh:
   label: 中文（简体）
   icon: 🇨🇳
+ru:
+  label: русский
+  icon: 🇷🇺
