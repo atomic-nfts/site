@@ -1,15 +1,14 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
-    <div class="sidebar-about">
+    <div class="sidebar-about" id="head-nav">
       <h1>
-        <a class="site-title" href="/">
           {{ site.title }}
-        </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
+      <p class="lead">{{ site.description }}<span class="show">  ›</span></p>
+      
     </div>
 
-    <nav class="sidebar-nav">
+    <nav class="sidebar-nav hidden" id="list-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/{{ page.lang }}">Home</a>
 
       {% assign pages_list = site.pages | where:"lang", page.lang | sort: 'navnum' %}
