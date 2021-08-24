@@ -3,7 +3,7 @@ title: Общее определение атомарного NFT
 layout: page
 lang: ru
 lang-ref: General-definition-of-an-atomic-NFT
-navnum: 2.1
+navnum: 1
 ---
 
 # Общее определение атомарного NFT.
