@@ -1,11 +1,11 @@
 ---
-title: Как получить AR
+title: Как получить токены AR
 layout: page
 lang: ru
 lang-ref: How-to-get-AR
 navnum: 2.4
 parent: Как развернуть атомарные NFT
-
+---
 
 # Как получить AR
 
