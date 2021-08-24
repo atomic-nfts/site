@@ -19,7 +19,7 @@ parent: Как развернуть атомарный NFT
 
 Скопируйте ID, чтобы найти свой шаблонный контракт в проводнике блоков.
 
-``bash
+```bash
  https://viewblock.io/arweave/tx/yourID
 ```
 
