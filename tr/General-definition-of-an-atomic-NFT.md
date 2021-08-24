@@ -19,4 +19,4 @@ Herkes, dijital varlıkları tokenleştirmek ,oluşturmak ve mevcut pazardan yar
 Koii Ağı, varsayılan olarak Atomic NFT'lerle ilişkili bir dizi hizmeti kolaylaştırır ve bunların çoğu düşük komisyonlu veya komisyonsuzdur. Atomic NFT'lerin tümü ortak bir standardı takip ettiğinden, diğer zincirlere ve formatlara köprü oluşturmanın yanı sıra, tüm uyumlu uygulamalar arasında değiştirilebilme özelliklerine sahiptir.
 
 <br>
-[Oluşturmaya Başla](/docs/How-to-deploy-an-Atomic-NFT){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Genel Lider Tablosuna Bakın](https://koi.rocks)
+[Oluşturmaya Başla](/tr/How-to-deploy-an-Atomic-NFT){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Genel Lider Tablosuna Bakın](https://koi.rocks)
