@@ -15,7 +15,7 @@ parent: Как развернуть атомарный NFT
 
 После развертывания шаблонного контракта вы увидите что-то вроде этого
 
-![Изображение ID](/assets/images/templateID.png)
+![ID image](/assets/images/templateID.png)
 
 Скопируйте ID, чтобы найти свой шаблонный контракт в проводнике блоков.
 
@@ -25,7 +25,7 @@ parent: Как развернуть атомарный NFT
 
 Контракт шаблона будет выглядеть следующим образом:
 
-![шаблонный контракт](/assets/images/contract-template.png)
+![template contract](/assets/images/contract-template.png)
 
 А ваш атомарный NFT будет выглядеть следующим образом:
 
