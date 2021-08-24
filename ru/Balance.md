@@ -19,7 +19,7 @@ parent: Особенности атомарного NFT
 
 В приведенном ниже разделе показан пример возможной функции баланса:
 
-``bash
+```bash
 export default function balance(state, action) {
   const input = action.input;
   const caller = action.caller;
@@ -33,12 +33,12 @@ export default function balance(state, action) {
   const balances = state.balances;
   ContractAssert(
     typeof target === "string",
-    `Необходимо указать цель для получения баланса.`
+    `Must specify target to retrieve balance for.`
   );
   return {
     result: {
-      цель,
-      тикер,
+      target,
+      ticker,
       balance: target in balances ? balances[target] : 0
     }
   };
