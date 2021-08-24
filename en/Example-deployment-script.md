@@ -3,7 +3,7 @@ title: Deploy an Atomic NFT
 layout: page
 lang: en
 lang-ref: Example-deployment-script
-navnum: 2.3
+navnum: 2.4
 parent: How to deploy an Atomic NFT
 ---
 

@@ -3,7 +3,7 @@ title: How to get AR
 layout: page
 lang: en
 lang-ref: How-to-get-AR
-navnum: 2.4
+navnum: 2.3
 parent: How to deploy an Atomic NFT
 ---
 

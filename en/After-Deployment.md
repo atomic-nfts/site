@@ -3,7 +3,7 @@ title: After Deployment
 layout: page
 lang: en
 lang-ref: After-Deployment
-navnum: 2.5
+navnum: 2.6
 parent: How to deploy an Atomic NFT
 ---
 
