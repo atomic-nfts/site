@@ -11,9 +11,9 @@ parent: Owning and Storing Atomic NFTs
 
 {: .fs-9 }
 
-The Finnie Wallet is the best wallet for digital media, where you can create NFTs in under 1 minute, for less than $0.01. (Setup takes about 2 minutes.)
+In addition to storing Koii and other tokens the Finnie wallet makes it possible to mint and hold Atomic NFTs. With Finnie you can create an Atomic NFT in under 1 minute, for less than $0.01
 
-There are a few really cool features with the Finnie Wallet that make NFTs and digital art more accessible to wider audiences (see this [blog post](https://blog.koii.network/Almost-Infinite/) about Atomic NFTs to learn more):
+The Finnie wallet has been designed with creators and collectors in mind in order to make NFTs and digital art more accessible to a wider audience (see this [blog post](https://blog.koii.network/Almost-Infinite/) about Atomic NFTs to learn more):
 
 - Minting Atomic NFTs is extremely affordable
 - Finnie uses [Arweave](https://www.arweave.org/) to store your content forever
