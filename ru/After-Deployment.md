@@ -4,7 +4,7 @@ layout: page
 lang: ru
 lang-ref: After-Deployment
 navnum: 2.5
-parent: Как развернуть атомарный NFT
+parent: Как развернуть атомный NFT
 ---
 
 # После развертывания

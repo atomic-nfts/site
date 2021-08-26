@@ -3,7 +3,7 @@ title: Что такое Arweave?
 layout: page
 lang: ru
 lang-ref: What-is-Arweave
-parent: Как развернуть атомарные NFT
+parent: Как развернуть атомный NFT
 navnum: 2.1
 ---
 

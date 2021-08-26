@@ -3,7 +3,7 @@ title: Что такое Smartweave?
 layout: page
 lang: ru
 lang-ref: What-is-smartweave
-parent: Как развернуть атомарные NFT
+parent: Как развернуть атомный NFT
 navnum: 2.2
 ---
 

@@ -4,7 +4,7 @@ layout: page
 lang: ru
 lang-ref: Example-deployment-script
 navnum: 2.3
-parent: Пример скрипта для развертывания атомарного NFT
+parent: Как развернуть атомный NFT
 ---
 
 # Общие советы
@@ -47,7 +47,7 @@ yarn deploy [contract]
 
 Примеры:
 
-- ``yarn deploy koii``
+- `yarn deploy koii`
 - `yarn deploy attention`.
 
 Это вернет идентификатор контракта, который понадобится вам на следующем шаге.

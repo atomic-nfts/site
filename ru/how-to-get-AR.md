@@ -4,7 +4,7 @@ layout: page
 lang: ru
 lang-ref: How-to-get-AR
 navnum: 2.4
-parent: Как развернуть атомарные NFT
+parent: Как развернуть атомный NFT
 ---
 
 # Как получить AR
@@ -14,4 +14,3 @@ parent: Как развернуть атомарные NFT
 <br>
 
 [Получить немного AR здесь](https://koi.rocks/faucet){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="\_blank" }
-

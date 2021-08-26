@@ -4,7 +4,7 @@ layout: page
 lang: ru
 lang-ref: Key-Security
 navnum: 4.1
-parent: Владение и хранение Атомарных NFT
+parent: Владение и хранение атомарных NFT
 ---
 
 # Безопасность ключей
