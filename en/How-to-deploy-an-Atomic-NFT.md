@@ -11,14 +11,14 @@ has_children: true
 
 {: .fs-9 }
 
-[Try an example here](https://github.com/atomic-nfts/standard)
+[Try it out](https://github.com/atomic-nfts/standard)
 {: .fs-2 .fw-400 }
 
 <br>
 All you need to deploy NFTs is a text editor and an internet connection.
 {: .fs-6 .fw-400 }
 
-An Atomic NFT is not unlike an NFT on Ethereum or similar networks. The only difference is that Atomic NFTs are stored on a storage network. This makes it possible to store the content along with the contract, which creates a single universal piece of media.
+An Atomic NFT combines many of the characteristics that an NFT on Ethereum has but has added some key elements. For example, an Atomic NFT is stored immutably on the Arweave storage network. During the minting process, the storage medium containing the media file along with the smart contract are combined, incorporating all of the associated media files. This creates an NFT that is a unique, universally identifiable digital asset.
 {: .fs-3 .fw-400 }
 
 Over time, subsequent transactions can write to this data “object” and update it, creating truly common data sets.
