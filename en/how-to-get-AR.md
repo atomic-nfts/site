@@ -9,7 +9,7 @@ parent: How to deploy an Atomic NFT
 
 # How to get AR
 
-In order to deploy your contract, you’ll need to pay some AR tokens. In the future, there will be some ways to deploy Koii contracts using only KOII tokens and other tokens in Atomic Swaps.
+AR is the token that powers the Arweave network. Koii utilizes Arweave as the base layer to permanently store your digital asset and smart contract together. In order to deploy your contract, you’ll need to pay some AR tokens. In the future, we will be incorporating methods to deploy Koii contracts using only Koii and other tokens in Atomic Swaps.
 
 <br>
 
