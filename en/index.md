@@ -4,7 +4,7 @@ title: What’s this?
 lang: en
 ---
 
-Atomic NFTs make it possible to sign and own pieces of the public decentralized data commons.
+Atomic NFTs make it possible to sign and own pieces of the public decentralized data commons in the form of unique, universally identifiable digital assets.
 {: .fs-6 .fw-300 }
 
 To see some Atomic Content in action, you can get the [Koii Finnie Wallet](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj){:target="\_blank"} or browse some content from the community on the [koi.rocks attention leaderboard](https://koi.rocks/){:target="\_blank"}.
@@ -12,10 +12,14 @@ To see some Atomic Content in action, you can get the [Koii Finnie Wallet](https
 
 ## Why use Atomic NFTs?
 
-- Storage Networks like [Arweave](https://arweave.org){:target="\_blank"} have much lower gas fees
-- Much less energy is used, and utilities can be added with [Gradual Consensus](https://koii.network/gradual-consensus.pdf){:target="\_blank"}
-- Media files can never be separated from the contracts that control their ownership
-- All content receives KOII tokens any time it is viewed ([Learn More](https://koii.network/lightpaper.pdf){:target="\_blank"})
+- Completely decentralized
+- Media and smart contract are combined and stored permanently
+- NFTs become unique, universally identifiable digital assets
+- Ownership of NFTs and media files preserved across the internet
+- Eco-friendly
+- 1/1000 the cost of minting an NFT on Ethereum
+- Proofs of Real Traffic system ensures attention rewards via Koii
+- Atomic NFTs can be bridged to any blockchain network
 
 ## Start Building
 
