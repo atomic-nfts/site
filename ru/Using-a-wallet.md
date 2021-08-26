@@ -1,7 +1,7 @@
 ---
 title: Использование Кошелька
 layout: page
-lang: en
+lang: ru
 lang-ref: Using-a-wallet
 navnum: 4.2
 parent: Владение и хранение атомарных NFT
