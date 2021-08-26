@@ -1,6 +1,6 @@
 ---
-layout: оглавление
-title: что это такое
+layout: index
+title: Что это такое?
 lang: ru
 ---
 ## Что это такое?
