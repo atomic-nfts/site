@@ -1,10 +1,10 @@
 ---
-title: Развертывание атомарного NFT
+title: Пример скрипта для развертывания атомарного NFT
 layout: page
 lang: ru
 lang-ref: Example-deployment-script
 navnum: 2.3
-parent: Как развернуть атомарный NFT
+parent: Пример скрипта для развертывания атомарного NFT
 ---
 
 # Общие советы
