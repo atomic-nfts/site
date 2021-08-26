@@ -1,7 +1,7 @@
 ---
 title: Обеспечение безопасности ключей
 layout: page
-lang: en
+lang: ru
 lang-ref: Key-Security
 navnum: 4.1
 parent: Владение и хранение Атомарных NFT
