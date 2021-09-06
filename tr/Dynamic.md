@@ -15,6 +15,6 @@ Dinamik NFT'ler biraz daha karmaşıktır ve son bir veri yükü hazırlamak iç
 
 Dinamik öğe, bir Arweave ağ geçidinden bilgi alabilen ve en son sözleşme durumuna yanıt vermek için görünümlerini değiştirebilen NFT'nin dahili programlamasından gelir.
 
-[Denemek için buradaki 'Narcissus'(Nergiz Çiçeği) şablonunu deneyin.](https://github.com/atomic-nfts/standard/tree/main/dynamic).
+<!-- [Denemek için buradaki 'Narcissus'(Nergiz Çiçeği) şablonunu deneyin.](https://github.com/atomic-nfts/standard/tree/main/dynamic). -->
 
 Bu, uygulamanın yalnızca bir örneğidir. Ancak mevcut Atomik NFT standartlarıyla birlikte çalışabilirlik için gereken varsayılan işlevselliği sağlayabilir.
