@@ -25,7 +25,7 @@ This indicates is the type of the content you are uploading. For example a png i
 
 ### Network
 
-`Netowrk`is something which we keep `Koi` to keep track
+`Network`is something which we keep `Koi` to keep track
 
 ### Action, App-Name and App-Version
 
