@@ -1,5 +1,5 @@
 ---
-title: Transfer(required)
+title: Transfer (required)
 layout: page
 lang: en
 lang-ref: Transfer

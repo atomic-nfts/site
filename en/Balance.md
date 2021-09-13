@@ -1,5 +1,5 @@
 ---
-title: Balance(required)
+title: Balance (required)
 layout: page
 lang: en
 lang-ref: Balance

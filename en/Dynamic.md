@@ -1,5 +1,5 @@
 ---
-title: Dynamic(optional)
+title: Dynamic (optional)
 layout: page
 lang: en
 lang-ref: Dynamic
