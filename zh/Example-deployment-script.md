@@ -1,79 +1,79 @@
 ---
-title: Deploy an Atomic NFT
+title: 正式部署Atomic NFT
 layout: page
 lang: zh
 lang-ref: Example-deployment-script
 navnum: 2.4
-parent: How to deploy an Atomic NFT
+parent: 如何部署Atomic NFT
 ---
 
-# General Tips
+# 一些建议
 
-For an example of how to deploy an Atomic NFT, you need look no further than our handy [github repo](https://github.com/atomic-nfts/standard).
+如何部署 Atomic NFT 示例可以查看我们的实用手册 [github repo](https://github.com/atomic-nfts/standard).
 
-Contained in this repo, you'll find a handful of helpful scripts in the `bin/` subdirectory, along with contract examples in the `src/` directory.
+这份 repo 中包含在 `bin/` 子目录中一系列有用脚本以及在 `src/` 目录下的合约示例。
 
-## Deployment Process
+## 部署流程
 
-In order to deploy an Atomic NFT, you first need to have an already-deployed template contract. Currently Koii has three of these available:
+想要部署 Atomic NFT，您需要有一个已有的模板合约。目前，Koii 已有三个模板可供使用：
 
-1. Standard NFT (similar to koi.rocks or Finnie wallet defaults) - [I8xgq3361qpR8_DvqcGpkCYAUTMktyAgvkm6kGhJzEQ](https://viewblock.io/arweave/tx/I8xgq3361qpR8_DvqcGpkCYAUTMktyAgvkm6kGhJzEQ)
+1. 1. 标准 NFT (类似于 koi.rocks 或 Finnie 钱包预设值) - [I8xgq3361qpR8_DvqcGpkCYAUTMktyAgvkm6kGhJzEQ](https://viewblock.io/arweave/tx/I8xgq3361qpR8_DvqcGpkCYAUTMktyAgvkm6kGhJzEQ)
 
-2. Erc1155 Bridge-Compatible NFT - [1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo](https://viewblock.io/arweave/tx/1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo)
+2. 2. Erc1155 桥接-兼容 NFT - [1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo](https://viewblock.io/arweave/tx/1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo)
 
-3. _(Experimental)_ Dynamic NFT - [1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo](https://viewblock.io/arweave/tx/1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo)
+3. 3. (试验) 动态 NFT - [1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo](https://viewblock.io/arweave/tx/1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo)
 
-### Here's how can you deploy your own teplate contract:
+### 部署您自己的模板合约流程：
 
-First, enter the `/CreateNFT/contracts/` directory:
+第一步，进入 `/CreateNFT/contracts/` 目录：
 
 ```
 cd /CreateNFT/contracts/
 ```
 
-Second, check the .env file, make sure the path is your arweavewallet.json
+第二步，查看 .env 文件，确保路径是您的 arweavewallet.json
 
 ```
 WALLET_LOCATION = path/to/your/wallet
 ```
 
-Third, in /src/nft/init_state.json file, edit this to your info.
+第三步，在/src/nft/init_state.json 文件，输入编辑您的个人信息。
 
-You're all set, now let's deploy the template contracts:
+准备就绪。现在开始部署模板合约：
 
 ```
 yarn deploy [contract]
 ```
 
-Examples:
+示例：
 
 - `yarn deploy koii`
 - `yarn deploy attention`
 
-This will return a contract ID, which you'll need in the next step.
+这将返回合约 ID，在下一步骤您会需要。
 
-### Deploy the Atomic NFTs
+### 部署 Atomic NFTs
 
-Now let's deploy the Atomic NFT:
+现在开始部署 Atomic NFT：
 
-Check the creatingNewNFT.js file. Change the info to your own:
+查看 creatingNewNFT.js 文件。更改为您的个人信息：
 
-Remember to change the contract ID:
+记住更改合约 ID：
 
 ```
 contractSrc => [contract ID]
 
 ```
 
-After the info is finished, deploy it:
+完成信息更新，即可部署：
 
 ```
 node creatingNewNFT.js
 ```
 
-You're all done, Just a few minutes you could search your txID on [https://viewblock.io/arweave](https://viewblock.io/arweave)
+一切就绪。仅需几分钟，您即可在 [https://viewblock.io/arweave](https://viewblock.io/arweave)搜索您的 txID。
 
-## Example Deployment Script
+## 部署脚本示例
 
 <br>
 

@@ -4,7 +4,7 @@ layout: page
 lang: zh
 lang-ref: After-Deployment
 navnum: 2.6
-parent: How to deploy an Atomic NFT
+parent: 如何部署Atomic NFT
 ---
 
 # After Deployment

@@ -1,15 +1,15 @@
 ---
-title: What is Smartweave?
+title: 什么是SmartWeave？
 layout: page
 lang: zh
 lang-ref: What-is-smartweave
-parent: How to deploy an Atomic NFT
+parent: 如何部署Atomic NFT
 navnum: 2.2
 ---
 
-# What is Smartweave?
+# 什么是 SmartWeave？
 
 <br>
-SmartWeave is an approach to smart contracts that allows the blockchain to dispense with gas fees by only requiring a smart contract’s code to be run as often as it is needed. This greatly increases efficiency as the code does not need to be run by every node on the network.
+SmartWeave是连接智能合约的一种方式，它允许区块链免除gas费用，仅要求智能合约代码在需要时运行，而非在网络的每个节点上运行。
 
-Arweave Founder Sam Williams describes “SmartWeave as “a new smart contract language environment built on top of the Arweave network” he went on to explain that “it uses this novel type of evaluation called ‘lazy evaluation’ to move the computational burden of smart-contract execution from the nodes in the network to the users of the smart contract.”
+“SmartWeave 是一个全新的智能合约语言环境，构建在 Arweave 网络之上，”Arweave 首席执行官 Sam Williams 告诉 CoinDesk。“使用名为‘惰性评估’的新型评估方式，将智能合约执行的计算负担从网络节点转移至智能合约用户。”

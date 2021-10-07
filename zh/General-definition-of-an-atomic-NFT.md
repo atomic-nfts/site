@@ -1,22 +1,22 @@
 ---
-title: General definition of an atomic NFT
+title: Atomic NFT一般定义
 layout: page
 lang: zh
 lang-ref: General-definition-of-an-atomic-NFT
 navnum: 1
 ---
 
-# General definition of an atomic NFT
+# Atomic NFT 一般定义
 
-## What is an Atomic NFT?
+## 什么是 Atomic NFT？
 
 {: .fs-9 }
 
-An Atomic NFT is a standard for Non Fungible Tokens (NFTs) where the media assets and contract metadata are stored together immutably under a single unique identifier.
+Atomic NFT 是非同质化通证（NFTs）的一种标准，媒体资产和合约元数据一同且无法改变地存储于独立唯一识别符下。
 
-Anyone can use the Atomic NFT standard to tokenize and create digital assets to buy, sell, and auction through a marketplace.
+任何人能够使用 Atomic NFT 标准来代币化或创造数字资产，通过交易市场来购买、出售或拍卖资产。
 
-The Koii Network facilitates a range of services associated with Atomic NFTs by default, and most of these are commission-lite or commission-free. By adopting the Atomic NFT standard, NFTs become interchangeable in all compatible applications. This makes it possible to create bridges to other chains and formats like Ethereum (and EVM), Tezos, Polkadot etc.
+在预设下，Koii 网络提供与 Atomic NFTs 相关的一系列服务，大部分只收取小额佣金或免佣金。由于 Atomic NFTs 均采用一个共同标准，在所有兼容应用程序中可相互交换，这同样也适用于桥接于其他区块链或格式，如 Ethereum（和 EVM）、Tezos 和 Polkadot。
 
 <br>
-[Start Building](/en/How-to-deploy-an-Atomic-NFT){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [See the Global Leaderboard](https://koi.rocks)
+[开始构建](/en/How-to-deploy-an-Atomic-NFT){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [查看排行榜](https://koi.rocks)

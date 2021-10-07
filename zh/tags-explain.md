@@ -4,7 +4,7 @@ layout: page
 lang: zh
 lang-ref: Tags-explanation
 navnum: 2.5
-parent: How to deploy an Atomic NFT
+parent: 如何部署Atomic NFT
 ---
 
 # Tags explanation

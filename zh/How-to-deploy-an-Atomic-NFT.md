@@ -1,5 +1,5 @@
 ---
-title: How to deploy an Atomic NFT
+title: 如何部署Atomic NFT
 layout: page
 lang: zh
 lang-ref: How-to-deploy-an-Atomic-NFT
@@ -7,22 +7,22 @@ navnum: 2
 has_children: true
 ---
 
-# How to deploy an Atomic NFT
+# 如何部署 Atomic NFT
 
 {: .fs-9 }
 
-[Try it out](https://github.com/atomic-nfts/standard)
+[示例点击此处](https://github.com/atomic-nfts/standard)
 {: .fs-2 .fw-400 }
 
 <br>
-All you need to deploy NFTs is a text editor and an internet connection.
+部署NFTs仅需一个文本编辑器以及互联网络。
 {: .fs-6 .fw-400 }
 
-An Atomic NFT combines many of the characteristics that an NFT on Ethereum has but has added some key elements. For example, an Atomic NFT is stored immutably on the Arweave storage network. During the minting process, the storage medium containing the media file along with the smart contract are combined, incorporating all of the associated media files. This creates an NFT that is a unique, universally identifiable digital asset.
+Atomic NFT 就像以太坊或类似网络上的 NFT 一样。唯一的差别就是 Atomic NFTs 是存于一个存储网络。这使之能将内容与合约一起存储成为可能，从而创建一个独一无二的媒体。
 {: .fs-3 .fw-400 }
 
-Over time, subsequent transactions can write to this data “object” and update it, creating truly common data sets.
+久而久之，后续交易能够写入这个数据“对象（object）”并更新它，创造真正的共享数据组合。
 {: .fs-3 .fw-400 }
 
-If you’re already familiar with Arweave and Smartweave or just want to get into the meat of it, skip ahead to ‘Deploy an Atomic NFT’.
+如果您已经非常熟悉 Arweave 和 SmartWeave，亦或是想要深入了解，可以直接跳转至“部署 Atomic NFT（Deploy an Atomic NFT）”部分。
 {: .fs-3 .fw-400 }
