@@ -1,5 +1,5 @@
 ---
-title: Features of an Atomic NFT
+title: Atomic NFT功能
 layout: page
 lang: zh
 lang-ref: Features-of-an-Atomic-NFT
@@ -7,15 +7,15 @@ navnum: 3
 has_children: true
 ---
 
-# Features of an Atomic NFT
+# Atomic NFT 功能
 
-[Try examples here](https://github.com/atomic-nfts/standard)
+[示例请点击此处](https://github.com/atomic-nfts/standard)
 {: .fs-2 .fw-400 }
 
-### Required Features
+### 必需功能
 
 {: .fs-9 }
 
-In order for your NFT to be compatible with existing wallets and systems, it needs to follow the correct format.
+为了使您的 NFT 与现有钱包和系统兼容，需要参照正确格式。
 
-The sections below detail methods and state object configurations required to work with Koii bridges and wallets, as well as most other networks.
+以下部分详解了与 Koii 桥接和钱包以及其他大部分网络的必需方法和状态对象配置。

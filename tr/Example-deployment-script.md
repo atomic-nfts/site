@@ -17,7 +17,7 @@ Bu depoda yer alan `bin/` alt dizinde, dizindeki sözleşme örnekleriyle birlik
 
 Bir Atomic NFT'yi dağıtmak için önce önceden dağıtılmış bir şablon sözleşmeniz olması gerekir. Şu anda Koii'de bunlardan üç tanesi mevcut:
 
-1. Standart NFT (koi.rocks veya Finnie cüzdan varsayılanlarına benzer) - [I8xgq3361qpR8_DvqcGpkCYAUTMktyAgvkm6kGhJzEQ](https://viewblock.io/arweave/tx/I8xgq3361qpR8_DvqcGpkCYAUTMktyAgvkm6kGhJzEQ)
+1. Standart NFT (koi.rocks veya Finnie cüzdan varsayılanlarına benzer) - [r_ibeOTHJW8McJvivPJjHxjMwkYfAKRjs-LjAeaBcLc](https://viewblock.io/arweave/tx/r_ibeOTHJW8McJvivPJjHxjMwkYfAKRjs-LjAeaBcLc)
 
 2. Erc1155 Köprü Uyumlu NFT - [1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo](https://viewblock.io/arweave/tx/1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo)
 

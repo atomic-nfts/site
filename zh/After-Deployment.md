@@ -1,5 +1,5 @@
 ---
-title: After Deployment
+title: 部署之后
 layout: page
 lang: zh
 lang-ref: After-Deployment
@@ -7,26 +7,26 @@ navnum: 2.6
 parent: 如何部署Atomic NFT
 ---
 
-# After Deployment
+# 部署之后
 
-Congratulations! Now you’ve deployed an Atomic NFT! Here’s how you can verify the transaction.
+恭喜！您已部署了一个 Atomic NFT！关于如何验证交易，请参阅以下信息：
 
-## How to find your template contract and atomic NFT
+## 如何找到您的模板合约和 Atomic NFT
 
-After you deploy a template contract, you will see something like this
+您部署了一个模板合约后，您会看到以下界面：
 
 ![ID image](/assets/images/templateID.png)
 
-Copy the ID to find your template contract on the block explorer.
+将您的 ID 复制于 block 浏览器中，查找您的模板合约。
 
 ```bash
  https://viewblock.io/arweave/tx/yourID
 ```
 
-The template contract will look like this:
+模板合约样板如下图所示：
 
 ![template contract](/assets/images/contract-template.png)
 
-And your Atomic NFT will look like this:
+您的 Atomic NFT 显示如下：
 
 ![template contract](/assets/images/Atomic-NFT.png)

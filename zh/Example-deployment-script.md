@@ -17,7 +17,7 @@ parent: 如何部署Atomic NFT
 
 想要部署 Atomic NFT，您需要有一个已有的模板合约。目前，Koii 已有三个模板可供使用：
 
-1. 1. 标准 NFT (类似于 koi.rocks 或 Finnie 钱包预设值) - [I8xgq3361qpR8_DvqcGpkCYAUTMktyAgvkm6kGhJzEQ](https://viewblock.io/arweave/tx/I8xgq3361qpR8_DvqcGpkCYAUTMktyAgvkm6kGhJzEQ)
+1. 1. 标准 NFT (类似于 koi.rocks 或 Finnie 钱包预设值) - [r_ibeOTHJW8McJvivPJjHxjMwkYfAKRjs-LjAeaBcLc](https://viewblock.io/arweave/tx/r_ibeOTHJW8McJvivPJjHxjMwkYfAKRjs-LjAeaBcLc)
 
 2. 2. Erc1155 桥接-兼容 NFT - [1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo](https://viewblock.io/arweave/tx/1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo)
 

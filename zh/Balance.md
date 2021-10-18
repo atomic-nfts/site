@@ -1,23 +1,23 @@
 ---
-title: Balance (required)
+title: 余额 (required)
 layout: page
 lang: zh
 lang-ref: Balance
 navnum: 3.1
-parent: Features of an Atomic NFT
+parent: Atomic NFT功能
 ---
 
-# Balance
+# 余额
 
 {: .fs-9 }
 
-The ‘balance’ method must contain a function for retrieving the balance of a specific wallet from the state of the NFT object.
+‘余额（balance）’方法必须包含一项函数，用于从 NFT 对象的状态中检索特定钱包的余额。
 
-This is a crucial feature, as the control of all internal methods will depend on whether the function caller owns any instances of the token.
+这个特点至关重要，因为对所有内部方法的掌控将取决于函数调用者是否拥有该通证的任何实例。
 
-The balances of all owners are tracked in `state.balances` in the format of `address: balance` where `balance` is an integer.
+所有拥有者的余额会在`state.balances` 中进行跟踪，显示格式为`address: balance` ，此处`balance`为一个整数。
 
-The section below shows an example of a possible balance function:
+余额函数示例显示如下：
 
 ```bash
 export default function balance(state, action) {
@@ -45,4 +45,4 @@ export default function balance(state, action) {
 }
 ```
 
-This is only an example of the implementation, but can provides the default functionality needed for interoperability with existing Atomic NFT standards.
+这仅仅是一个应用示例，但能够提供与现有 Atomic NFT 标准交互所需要的默认功能。

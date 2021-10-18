@@ -1,19 +1,19 @@
 ---
-title: Transfer (required)
+title: 转账 (必要)
 layout: page
 lang: zh
 lang-ref: Transfer
 navnum: 3.2
-parent: Features of an Atomic NFT
+parent: Atomic NFT功能
 ---
 
-# Transfer
+# 转账（transfer）
 
 {: .fs-9 }
 
-The ‘transfer’ method contains a function for allowing the contract to transfer your token and must be implemented to work similarly to the example below.
+‘转账（transfer）’方法包含一个函数，用于允许合约来转账您的代币，且必须与下列示例类似的方式来执行。
 
-Example of a possible transfer function:
+转账函数示例：
 
 ```bash
 export default function transfer(state, action) {
@@ -39,4 +39,4 @@ export default function transfer(state, action) {
 }
 ```
 
-This is only an example of the implementation, but can provides the default functionality and state structure needed for interoperability with existing Atomic NFT standards.
+这仅仅是一个应用示例，但能够提供与现有 Atomic NFT 标准交互所需要的默认功能和状态结构。

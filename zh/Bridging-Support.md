@@ -1,23 +1,23 @@
 ---
-title: Bridging Support (optional)
+title: 桥接支持 (可选)
 layout: page
 lang: zh
 lang-ref: Bridging-Support
 navnum: 3.4
-parent: Features of an Atomic NFT
+parent: Atomic NFT功能
 ---
 
-## Bridging Support
+## 桥接支持
 
 {: .fs-9 }
 
-The ‘lock’ and ‘unlock’ methods contain the function for delegating ownership of an NFT when bridging to another chain.
+‘锁定（lock）’和‘解锁（unlock）’方法中包含一个函数，用以桥接到另一条区块链时委托 NFT 所有权。
 
-## Lock
+## Lock 锁定
 
 {: .fs-6 }
 
-The section below shows an example of a possible ‘lock’ function:
+‘lock’函数示例如下：
 
 ```bash
 export default function lock(state, action) {
@@ -53,13 +53,13 @@ export default function lock(state, action) {
 }
 ```
 
-## Unlock
+## Unlock 解锁
 
 {: .fs-6 }
 
-The ‘unlock’ method handles removing an NFT from custodianship.
+解锁（unlock）’方法处理从托管中移除 NFT。
 
-The section below shows an example of a possible ‘unlock’ function:
+‘解锁（unlock）’方法示例如下：
 
 ```bash
 // Only the vault owner can call this function
@@ -96,4 +96,4 @@ The section below shows an example of a possible ‘unlock’ function:
 
 ```
 
-For more information about bridge compatibility, contact developers@koii.network.
+更多关于桥接可兼容性，请联系：developers@koii.network。

@@ -1,38 +1,38 @@
 ---
-title: Key Security
+title: 核心安全性
 layout: page
 lang: zh
 lang-ref: Key-Security
 navnum: 4.1
-parent: Owning and Storing Atomic NFTs
+parent: 拥有并存储Atomic NFTs
 ---
 
-# Key Security
+# 核心安全性
 
 {: .fs-9 }
 
 <br>
-One of the primary reasons blockchain systems have received widespread attention is their ability to provide secure networks without trusting a central entity. Despite this, there are some limitations of the blockchain approach, and understanding them is key to properly deploying new products and solutions.
+区块链系统获得了广泛关注的主要原因之一是其提供安全网络而无需信任中央实体的能力。尽管如此，区块链处理方法会有一些限制，理解这些对于恰当部署新产品和解决方案非常关键。
 
-## MANAGING YOUR KEYS
+## 管理您的密钥
 
-### INDIVIDUAL ACCOUNT COMPROMISE
+### 个人账户受损
 
 <br>
-IN THE PAST, AN 8 DIGIT PASSWORD WAS NEARLY IMPOSSIBLE TO CRACK, BUT IN 2021, IT’S NOT ONLY POSSIBLE - IT’S EASY.
+过去，8位数字密码几乎不可能破解，但在2021年，这不但可能而且非常容易。
 
-Staying safe online is about more than just having a strong secret key. Avoiding illegal torrents and other un-verified downloads is a good place to start, but when it comes to corporate e-governance, things get even more complicated. Software review, careful audits, and change management should all be high priorities for any decentralized project. Storing private keys in a publicly accessible place can introduce further crimes of opportunity.
+在互联网上保持安全，不仅仅需要拥有一个强密钥。避免非法种子和其他非验证下载是一个很好的起点，但当我们提到企业电子政务时，事情就会变得更为复杂。软件审查、审计和变更管理对任何去中心化项目而言，都应当具有高优先级。在可公共访问的地方存储密钥可能导致进一步的机会犯罪。
 
-In addition, a weak quality password could make it possible for any computer with a modern video card to crack your password. The problem is worsened by the existence of inexpensive, on-demand processing, for example, through a traditional cloud provider. Finally, ensuring that your source of entropy/randomness is sufficient during account creation is something the end-user often does not have control over. Unfortunately, this can be a major weakness after keys were already thought to have been secured.
+此外，任何一台电脑，一个现代的录像卡就能破解您的弱密码。随着价格低廉、按需处理的出现，这个问题变得越发糟糕。例如，通过一个传统的云服务提供商即可。最终，在创建账户时，确保您密码的熵/随机性来源足以，但终端用户常常无法控制这一点。
 
-Aside from actual wallets being hacked, there is always the risk that a developer’s Github account could be compromised, in which case a bad actor could add malicious code into the client software for the blockchain network. In the past, bad actors have gone as far as to join the development communities for modules which were used in other software, such as the cryptographic libraries used in the Bitcoin client, and sought to create security loopholes by pushing malicious code to those dependencies.
+除了钱包被黑，开发者 Github 账户受损风险依然存在，这种情况下，不法者会在区块链网络中的客户软件中添加恶意代码。在过去，甚至有不法者加入其他软件所使用的模块开发社区，诸如比特币客户使用的加密库，以通过恶意代码推送给依赖项（dependencies）来制造安全漏洞。
 
-- While core blockchain code doesn't often malfunction, wallet and client software is an easy target for many hackers. It is important to always verify that the wallet software you are downloading matches the publisher's hash. Most iOS and Google Play app stores do this automatically, but we must be particularly careful with desktop applications.
+- 尽管核心区块链代码出错几率不大，钱包、客户软件则是很多黑客攻击的简单目标。因此，您一定要验证正在下载钱包与发布者的哈希相匹配，这点非常重要。大多 iOS 和谷歌 Play 应用会自动进行验证检测，不过我们需要尤其小心台式机上应用下载的操作。
   {: .text-purple-000}
 
-### CRYPTOCURRENCY WALLETS
+### 加密货币钱包
 
 <br>
-- IT’S IMPORTANT TO HAVE THE RIGHT TOOL FOR THE JOB.
+- 拥有正确的工具非常重要。
 
-Although the software we use to manage cryptocurrencies is called a “wallet”, no actual value is held in the wallet itself. Instead, it is a management interface for interacting with your private keys and blockchain networks. Modern cryptocurrency wallets are more like a chequebook, which doesn’t hold any actual assets directly, but can sign them to another person. Because balances are tracked by the blockchain itself, cryptocurrency wallets mainly automate the process of signing cryptographic messages and broadcasting them to peer nodes in the network.
+尽管我们所使用来管理加密货币的软件叫做“钱包”，但钱包里并无真正价值存储其中。取而代之的是与您的密钥和区块链网络互动的管理界面。现代加密货币钱包更像是一本支票簿，它不直接持有任何资产，但能够通过签署行为给予另一个人资产。因为余额由区块链本身追踪，加密货币钱包主要自动化签署加密信息并将其传至网络上的对应节点的过程。

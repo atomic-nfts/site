@@ -1,22 +1,20 @@
 ---
-title: Dynamic (optional)
+title: 动态 (可选)
 layout: page
 lang: zh
 lang-ref: Dynamic
 navnum: 3.3
-parent: Features of an Atomic NFT
+parent: Atomic NFT功能
 ---
 
-# Dynamic
+# 动态
 
 {: .fs-9 }
 
-Dynamic NFTs are quite a bit more complicated, and use an iframe compressed into an html payload to prepare a final payload.
+动态 NFTs 要稍微更复杂些，采用压缩于 html 有效载荷的一个 iframe 来为最终载荷。
 
-The dynamic element comes from the NFT’s internal programming, which can retrieve information from an Arweave gateway, and can change their appearance to respond to the latest contract state.
+动态元素来自于 NFT 的内部程序，该程序能从 Arweave 网关中检索信息，能根据最新合约状态来修改它们的样态。
 
-This is only one example of the implementation, but it provides the default functionality needed for interoperability with existing Atomic NFT standards.
+这仅仅是一个应用示例，但能够提供与现有 Atomic NFT 标准交互所需要的默认功能。
 
-Check this GitHub repo for more information and try it yourself!
-
-[Atomic NFT standards](https://github.com/atomic-nfts/standard){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="\_blank" }
+来试一试[‘Narcissus Flower（水仙花) ’](https://github.com/atomic-nfts/standard/tree/main/dynamic){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="\_blank" }模板
