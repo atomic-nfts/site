@@ -17,7 +17,7 @@ parent: Как развернуть атомный NFT
 
 Для того чтобы развернуть атомарный NFT, вам сначала нужно иметь уже развернутый шаблонный контракт. В настоящее время в Koii доступны три таких контракта:
 
-1. Стандартный NFT (аналогичный koi.rocks или Finnie wallet defaults) - [I8xgq3361qpR8_DvqcGpkCYAUTMktyAgvkm6kGhJzEQ](https://viewblock.io/arweave/tx/I8xgq3361qpR8_DvqcGpkCYAUTMktyAgvkm6kGhJzEQ)
+1. Стандартный NFT (аналогичный koi.rocks или Finnie wallet defaults) - [r_ibeOTHJW8McJvivPJjHxjMwkYfAKRjs-LjAeaBcLc](https://viewblock.io/arweave/tx/r_ibeOTHJW8McJvivPJjHxjMwkYfAKRjs-LjAeaBcLc)
 
 2. Erc1155 Мост-совместимый NFT - [1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo](https://viewblock.io/arweave/tx/1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo)
 

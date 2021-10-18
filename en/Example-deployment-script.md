@@ -17,7 +17,7 @@ Contained in this repo, you'll find a handful of helpful scripts in the `bin/` s
 
 In order to deploy an Atomic NFT, you first need to have an already-deployed template contract. Currently Koii has three of these available:
 
-1. Standard NFT (similar to koi.rocks or Finnie wallet defaults) - [I8xgq3361qpR8_DvqcGpkCYAUTMktyAgvkm6kGhJzEQ](https://viewblock.io/arweave/tx/I8xgq3361qpR8_DvqcGpkCYAUTMktyAgvkm6kGhJzEQ)
+1. Standard NFT (similar to koi.rocks or Finnie wallet defaults) - [r_ibeOTHJW8McJvivPJjHxjMwkYfAKRjs-LjAeaBcLc](https://viewblock.io/arweave/tx/r_ibeOTHJW8McJvivPJjHxjMwkYfAKRjs-LjAeaBcLc)
 
 2. Erc1155 Bridge-Compatible NFT - [1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo](https://viewblock.io/arweave/tx/1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo)
 
