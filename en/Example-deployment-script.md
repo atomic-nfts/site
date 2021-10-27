@@ -23,7 +23,7 @@ In order to deploy an Atomic NFT, you first need to have an already-deployed tem
 
 3. _(Experimental)_ Dynamic NFT - [1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo](https://viewblock.io/arweave/tx/1ZjIecqKGYdGTFMWR9kdGrmi77lMmZnA6dxEzWulyjo)
 
-### Here's how can you deploy your own teplate contract:
+### Here's how can you deploy your own template contract:
 
 First, enter the `/CreateNFT/contracts/` directory:
 
