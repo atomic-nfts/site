@@ -68,6 +68,7 @@ contractSrc => [contract ID]
 Tamamladıktan sonra dağıtın:
 
 ```
+yarn
 node creatingNewNFT.js
 ```
 

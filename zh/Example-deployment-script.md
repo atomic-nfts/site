@@ -68,6 +68,7 @@ contractSrc => [contract ID]
 完成信息更新，即可部署：
 
 ```
+yarn
 node creatingNewNFT.js
 ```
 

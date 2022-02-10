@@ -68,6 +68,7 @@ contractSrc => [ID контракта]
 После того, как информация будет готова, разверните его:
 
 ```
+yarn
 node creatingNewNFT.js
 ```
 
