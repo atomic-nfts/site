@@ -74,6 +74,7 @@ Change init_state: line 25 - line 40:
 After the info is finished, deploy it:
 
 ```
+yarn
 node creatingNewNFT.js
 ```
 
