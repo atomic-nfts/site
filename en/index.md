@@ -1,25 +1,22 @@
 ---
 layout: index
-title: What’s this?
+title: What is an Atomic NFT?
 lang: en
 ---
 
-Atomic NFTs make it possible to sign and own pieces of the public decentralized data commons in the form of unique, universally identifiable digital assets.
+Atomic NFTs are a fundamental part of the permaweb. When an Atomic NFT is created, the media file, smart contract, and metadata are fused together to form a unique and universally identifiable digital asset stored permanently on a decentralized storage network. These characteristics set Atomic NFTs apart from traditional, non-standardized NFTs.
 {: .fs-6 .fw-300 }
 
-To see some Atomic Content in action, you can get the [Koii Finnie Wallet](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj){:target="\_blank"} or browse some content from the community on the [koi.rocks attention leaderboard](https://koi.rocks/){:target="\_blank"}.
-{: .fs-4 .fw-300 }
+## How are Atomic NFTs different from other NFTs?
 
-## Why use Atomic NFTs?
+NFTs are an essential element of web3 technology, making it possible for anyone to own a piece of the internet. However, the term NFT or “Non-Fungible Token” can mislead people into thinking that any NFT is one with the represented media file stored on-chain. It’s not. When you purchase a traditional image-based NFT, a blockchain token is sent to your wallet. However, the token in your wallet does not contain the media file. Instead, the token points to an image stored in another location on the internet, leaving you holding a cryptographic token that represents ownership of an untethered media file that exists somewhere (likely not on a blockchain).
+{: .fs-6 .fw-300 }
 
-- Completely decentralized
-- Media and smart contract are combined and stored permanently
-- NFTs become unique, universally identifiable digital assets
-- Ownership of NFTs and media files preserved across the internet
-- Eco-friendly
-- 1/1000 the cost of minting an NFT on Ethereum
-- Proofs of Real Traffic system ensures attention rewards via Koii
-- Atomic NFTs can be bridged to any blockchain network
+This has and will continue to lead to problems for traditional NFTs. For example, if the server that holds a media file goes down, so does the media represented by the NFT, leaving the owner holding a token that points to nothing. Alternatively, someone could switch out the original image file for another image, forcing the NFT “token” to point to the new photo. In one recent example, an artist named “[neitherconfirm](https://twitter.com/neitherconfirm/){: target=" \_blank"}” changed the media files referenced by 26 of his NFTs to stock images of rugs. The artist [later commented](https://twitter.com/neitherconfirm/status/1369285952083025925){: target=" \_blank"}, “All discussions about the value of NFTs are meaningless as long as the token is not inseparable from the artwork itself.”
+{: .fs-6 .fw-300 }
+
+The Atomic NFT standard makes the scenarios mentioned above impossible by combining all of the elements that make up an NFT into one unique digital asset. The result is an Atomic NFT that accurately represents the media file and token as one inseparable item. This means that Atomic NFTs cannot be rug-pulled, deleted, censored, or re-routed. Once they are created, Atomic NFTs persist as immutable digital artifacts that can be traded, sold, and appreciated without the limitations imposed by time and decay.
+{: .fs-6 .fw-300 }
 
 ## Start Building
 
