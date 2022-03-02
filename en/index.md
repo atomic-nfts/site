@@ -24,11 +24,20 @@ By combining the media, metadata, and smart contract into a self-contained piece
 
 The many advantages Atomic NFTs have over traditional first-generation NFTs make them an ideal foundation for the decentralized web. By making secure individual ownership of each piece of web3 possible, they become much more than simply a superior NFT. While we are still exploring the potential use cases for this exciting new technology, we would love to hear your ideas. If you would like to contribute to the Atomic NFT standard, please check out the Koii Network [GitHub](https://github.com/koii-network/){: target=" \_blank"}.
 
-## Start Building
+## Atomic NFT Attributes
 
-Where should we begin?
-<br>
-<br>
+- Completely decentralized utilizing on-chain storage
+- Media and smart contract are combined and stored permanently
+- NFTs become unique, universally identifiable digital assets
+- Ownership of NFTs and media files is preserved across the internet
+- Eco-friendly
+- 1/1000 the cost of minting an NFT on Ethereum
+- Proofs of Real Traffic ensures attention rewards via KOII
+- Atomic NFTs can be bridged to other blockchain networks
+- Programmable and dynamic, while still fully on-chain
+
+## How to create an Atomic NFT
+
 [Try the Easy Way](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="\_blank" } [Let's get technical...](/en/General-definition-of-an-atomic-NFT/){: .btn .fs-5 .mb-4 .mb-md-0}
 
 ---
