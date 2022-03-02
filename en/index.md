@@ -18,6 +18,12 @@ This has and will continue to lead to problems for traditional NFTs. For example
 The Atomic NFT standard makes the scenarios mentioned above impossible by combining all of the elements that make up an NFT into one unique digital asset. The result is an Atomic NFT that accurately represents the media file and token as one inseparable item. This means that Atomic NFTs cannot be rug-pulled, deleted, censored, or re-routed. Once they are created, Atomic NFTs persist as immutable digital artifacts that can be traded, sold, and appreciated without the limitations imposed by time and decay.
 {: .fs-6 .fw-300 }
 
+## Beyond Atomic NFTs
+
+By combining the media, metadata, and smart contract into a self-contained piece of software that persists immutably on a blockchain, a new kind of programmable digital entity has been created. With just a few lines of embedded JavaScript, an Atomic NFT can check its smart contract state and update itself each time a new record (e.g. amount of traffic tracked) is uploaded. Although these altered states may be permanent or fluid, the NFT itself remains immutable while reflecting the dynamic attributes programmed by its creator. To see an example of this kind of dynamic Atomic NFT in action, take a look at DKleine’s [Atomic Zombies](https://atomiczombies.io/){: target=" \_blank"}.
+
+The many advantages Atomic NFTs have over traditional first-generation NFTs make them an ideal foundation for the decentralized web. By making secure individual ownership of each piece of web3 possible, they become much more than simply a superior NFT. While we are still exploring the potential use cases for this exciting new technology, we would love to hear your ideas. If you would like to contribute to the Atomic NFT standard, please check out the Koii Network [GitHub](https://github.com/koii-network/){: target=" \_blank"}.
+
 ## Start Building
 
 Where should we begin?
